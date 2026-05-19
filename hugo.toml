@@ -1,0 +1,80 @@
+baseURL = "https://gonoring.github.io/monte-siao-vix/"
+locale = "pt-BR"
+title = "Monte Sião Vix — Transcrições"
+theme = "PaperMod"
+defaultContentLanguage = "pt"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+pagination.pagerSize = 20
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  pregador = "pregadores"
+
+[params]
+  env = "production"
+  title = "Monte Sião Vix — Transcrições"
+  description = "Acervo de transcrições das pregações da Igreja Monte Sião, Vitória/ES. Texto, resumo e trechos marcantes de cada mensagem."
+  author = ["Monte Sião Vix"]
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = "Monte Sião Vix — Transcrições"
+    Content = "Acervo das pregações da Igreja Monte Sião, Vitória/ES — em texto. Use a busca para encontrar por pregador, tema ou referência bíblica."
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 3
+    limit = 20
+    keys = ["title", "permalink", "summary", "content"]
+
+[menu]
+  [[menu.main]]
+    identifier = "pregacoes"
+    name = "Pregações"
+    url = "/pregacoes/"
+    weight = 10
+  [[menu.main]]
+    identifier = "pregadores"
+    name = "Pregadores"
+    url = "/pregadores/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "Temas"
+    url = "/tags/"
+    weight = 30
+  [[menu.main]]
+    identifier = "busca"
+    name = "Busca"
+    url = "/busca/"
+    weight = 40

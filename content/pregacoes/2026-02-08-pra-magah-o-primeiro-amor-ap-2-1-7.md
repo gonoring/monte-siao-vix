@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pra. Magah | O Primeiro amor (Ap 2. 1-7)
 date: '2026-02-08'
 draft: false

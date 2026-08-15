@@ -1,5 +1,5 @@
 ---
-title: Téo Freitas | Pecado é Pecado (Rm 1.18-32)
+title: Pr. Téo Freitas | Pecado é Pecado (Rm 1.18-32)
 date: '2023-07-21'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - tolerancia
 - santidade
 pregadores:
-- Téo Freitas
+- Pr. Téo Freitas
 params:
-  pregador: Téo Freitas
+  pregador: Pr. Téo Freitas
   texto_biblico: Rm 1:18-32, Jo 8:32-34, Mt 3:2, 1Jo 1:9, Ap 3:19-21
   tema: 'Pecado é pecado: contra a domesticação e a relativização do pecado'
   duracao: 00:52:37

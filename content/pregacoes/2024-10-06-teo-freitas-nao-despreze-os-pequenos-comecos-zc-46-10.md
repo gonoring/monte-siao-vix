@@ -1,5 +1,5 @@
 ---
-title: Téo Freitas | Não Despreze os Pequenos Começos (Zc 4.6-10)
+title: Pr. Téo Freitas | Não Despreze os Pequenos Começos (Zc 4.6-10)
 date: '2024-10-06'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - fidelidade-no-pouco
 - discipulado-e-obediencia
 pregadores:
-- Téo Freitas
+- Pr. Téo Freitas
 params:
-  pregador: Téo Freitas
+  pregador: Pr. Téo Freitas
   texto_biblico: Zc 4:6-10, Gn 1:28, 2Pe 3:17-18, Lc 16:10-13, Jo 8:31-32
   tema: 'Não despreze os pequenos começos: crescimento processual e a colheita inevitável do que se planta'
   duracao: 00:56:21

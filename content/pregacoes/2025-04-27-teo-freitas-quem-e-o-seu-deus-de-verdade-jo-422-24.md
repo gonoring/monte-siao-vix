@@ -1,5 +1,5 @@
 ---
-title: Téo Freitas | Quem é o Seu Deus de Verdade? (Jo 4.22-24)
+title: Pr. Téo Freitas | Quem é o Seu Deus de Verdade? (Jo 4.22-24)
 date: '2025-04-27'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - certeza-da-propria-fe
 - deus-revelado-em-jesus
 pregadores:
-- Téo Freitas
+- Pr. Téo Freitas
 params:
-  pregador: Téo Freitas
+  pregador: Pr. Téo Freitas
   texto_biblico: Jo 4:22-24, 1Jo 1:6-7, Jo 10:1-2, Jó 1:9-11
   tema: 'Quem é o seu Deus de verdade: a adoração em espírito e verdade a partir do encontro com a samaritana'
   duracao: 01:02:56

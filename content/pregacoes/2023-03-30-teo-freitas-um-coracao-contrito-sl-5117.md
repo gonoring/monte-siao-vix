@@ -1,5 +1,5 @@
 ---
-title: Téo Freitas | Um Coração Contrito (Sl 51.17)
+title: Pr. Téo Freitas | Um Coração Contrito (Sl 51.17)
 date: '2023-03-30'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - identidade
 - cura-emocional
 pregadores:
-- Téo Freitas
+- Pr. Téo Freitas
 params:
-  pregador: Téo Freitas
+  pregador: Pr. Téo Freitas
   texto_biblico: Sl 51:1-17, 2Sm 11:1-27, At 13:22, Lc 23:39-43
   tema: 'Um coração contrito: a decisão de Davi de se entregar a Deus'
   duracao: 00:42:56

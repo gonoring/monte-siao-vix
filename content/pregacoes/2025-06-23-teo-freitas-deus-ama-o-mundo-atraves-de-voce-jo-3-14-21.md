@@ -1,5 +1,5 @@
 ---
-title: Téo Freitas | Deus Ama o Mundo Através de Você (Jo 3. 14-21)
+title: Pr. Téo Freitas | Deus Ama o Mundo Através de Você (Jo 3. 14-21)
 date: '2025-06-23'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - trindade-e-envio
 - testemunho-vivo
 pregadores:
-- Téo Freitas
+- Pr. Téo Freitas
 params:
-  pregador: Téo Freitas
+  pregador: Pr. Téo Freitas
   texto_biblico: Jo 3:14-21, Jo 1:12
   tema: 'Deus ama o mundo através de você: o filho como instrumento do amor divino nas escolhas entre luz e trevas'
   duracao: 00:44:21

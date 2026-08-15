@@ -1,5 +1,5 @@
 ---
-title: Fabiana Ferreira | A Aceitação Vence a Ansiedade (Lc 12.47-53)
+title: Pra. Fabiana Ferreira | A Aceitação Vence a Ansiedade (Lc 12.47-53)
 date: '2024-09-25'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - controle
 - confianca-em-deus
 pregadores:
-- Fabiana Ferreira
+- Pra. Fabiana Ferreira
 params:
-  pregador: Fabiana Ferreira
+  pregador: Pra. Fabiana Ferreira
   texto_biblico: Lc 12:47-53, Lc 12:16-21, Dn 4:28-37, 1Co 12:15-17, Rm 8:28
   tema: A aceitação como antídoto para a ansiedade
   duracao: 01:05:48

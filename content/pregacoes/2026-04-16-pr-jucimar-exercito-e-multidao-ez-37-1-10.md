@@ -1,5 +1,5 @@
 ---
-title: Pr. Jucimar | Exercito e Multidão (Ez 37. 1-10)
+title: Pr. Jucimar Ramos | Exercito e Multidão (Ez 37. 1-10)
 date: '2026-04-16'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - identidade-soldado
 - abandono-mundanidade
 pregadores:
-- Pr. Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr. Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Ez 37:1-10, Cl 1:13, Ef 2:1, 2Co 5:17, Mt 5:13-14
   tema: 'O chamado para missão: do osso seco ao soldado de propósito'
   duracao: 01:03:17

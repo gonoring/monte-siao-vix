@@ -1,5 +1,5 @@
 ---
-title: Pra. Fabiana | Deus Sonha Em Morar com Você
+title: Pra. Fabiana Ferreira | Deus Sonha Em Morar com Você
 date: '2026-03-22'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - permanencia-em-Cristo
 - maturidade-emocional
 pregadores:
-- Pra. Fabiana
+- Pra. Fabiana Ferreira
 params:
-  pregador: Pra. Fabiana
+  pregador: Pra. Fabiana Ferreira
   texto_biblico: Jo 14:2-3, Jo 14:4-6, Jo 14:15-16, Jo 14:21, Jo 15:5
   tema: O sonho de Deus de ter intimidade e comunhão com você
   duracao: 00:49:03

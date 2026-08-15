@@ -1,5 +1,5 @@
 ---
-title: Pr. Jucimar | Fiel até o Fim (Ap 21. 4-8)
+title: Pr. Jucimar Ramos | Fiel até o Fim (Ap 21. 4-8)
 date: '2026-04-06'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - relacionamento-com-deus
 - perseveranca
 pregadores:
-- Pr. Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr. Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Ap 21:3-8, Ap 21:7-8, Lc 21:26, Hb 10:38-39, Mt 13:44
   tema: 'Fidelidade na angústia: recusando a covardia ante o aumento do preço do discipulado'
   duracao: 00:56:05

@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Coração à Prova de Oposição (1Ts 5.16-24)
+title: Pr. Lyncoln Reis | Coração à Prova de Oposição (1Ts 5.16-24)
 date: '2024-04-07'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - resistencia-espiritual
 - profecia
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: 1Ts 5:16-24, Fp 4:11-13, 1Co 10:13, Ne 4:1-9, Ne 13:4-9
   tema: Sete estratégias para um coração blindado contra a oposição do inimigo
   duracao: 01:13:16

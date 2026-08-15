@@ -8,9 +8,9 @@ tags:
 - presenca-de-deus
 - vida-cristao-pratica
 pregadores:
-- Tio Cezinha
+- Tio Cesinha
 params:
-  pregador: Tio Cezinha
+  pregador: Tio Cesinha
   texto_biblico: Lc 22:7-18, Jo 3:1-21, Lc 24:13-35
   tema: 'A casa está preparada: sentando-se à mesa com Jesus'
   duracao: 00:42:20

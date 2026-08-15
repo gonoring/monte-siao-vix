@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | De olhos na Eternidade (At 20.24)
+title: Pr. Lyncoln Reis | De olhos na Eternidade (At 20.24)
 date: '2024-11-25'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - irmaos-moravios
 - eternidade
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: At 20:24, Gl 2:20, Mt 4:1-4, Mt 6:19-21, Fp 3:7-8
   tema: 'De olhos na eternidade: nada é precioso além do chamado de servir'
   duracao: 01:00:18

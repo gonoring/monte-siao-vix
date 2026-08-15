@@ -1,5 +1,5 @@
 ---
-title: Pr. Jucimar | O Ano da Unidade (Mt 18.20)
+title: Pr. Jucimar Ramos | O Ano da Unidade (Mt 18.20)
 date: '2026-02-22'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - oracao-concordancia
 - perdao
 pregadores:
-- Pr. Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr. Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Mt 18:20, Mt 18:18-22, Sl 133, Gn 11, At 8:9-24
   tema: O princípio da unidade na Igreja como manifestação do poder divino
   duracao: 00:41:07

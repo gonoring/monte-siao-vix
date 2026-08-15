@@ -1,5 +1,5 @@
 ---
-title: Pr. Jucimar | O Deus da Paz (Rm 16.20)
+title: Pr. Jucimar Ramos | O Deus da Paz (Rm 16.20)
 date: '2026-06-19'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - principados-potestades
 - identidade-deus
 pregadores:
-- Pr. Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr. Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Rm 16:20, Jz 6-7, Jo 14:27, Ef 6:10-18, Fp 4:7-13
   tema: O Deus da Paz esmagando Satanás sob os pés do crente
   duracao: 01:18:11

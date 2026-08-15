@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Filhos Emocionalmente Saudáveis (Gn 4.1-7)
+title: Pr. Lyncoln Reis | Filhos Emocionalmente Saudáveis (Gn 4.1-7)
 date: '2024-10-21'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - autocontrole
 - identidade-em-cristo
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Gn 4:1-7, Pv 4:23, Pv 22:15, Rm 15:4, Mt 6:22-23
   tema: Sete habilidades de inteligência emocional a partir da história de Caim
   duracao: 01:18:33

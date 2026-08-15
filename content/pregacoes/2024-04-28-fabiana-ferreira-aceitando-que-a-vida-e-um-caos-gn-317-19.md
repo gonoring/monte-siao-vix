@@ -1,5 +1,5 @@
 ---
-title: Fabiana Ferreira | Aceitando que a Vida é um Caos (Gn 3.17-19)
+title: Pra. Fabiana Ferreira | Aceitando que a Vida é um Caos (Gn 3.17-19)
 date: '2024-04-28'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - batalha-espiritual
 - vitimismo
 pregadores:
-- Fabiana Ferreira
+- Pra. Fabiana Ferreira
 params:
-  pregador: Fabiana Ferreira
+  pregador: Pra. Fabiana Ferreira
   texto_biblico: Gn 3:17-19, Hb 10:36, Ec 9:1-11, Fp 1:29, Ap 21:4
   tema: Aceitar que a vida é um caos e perseverar no sofrimento
   duracao: 00:53:05

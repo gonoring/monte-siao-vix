@@ -9,9 +9,9 @@ tags:
 - fe
 - arrebatamento
 pregadores:
-- Pr. Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr. Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Ap 3:7-13, 1Tm 4:1-2, 2Tm 4:3-4, Cl 1:13, Dn 12:4
   tema: Escatologia, dúvida e a certeza da salvação em Jesus
   duracao: 00:55:54

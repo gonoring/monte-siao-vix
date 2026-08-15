@@ -1,5 +1,5 @@
 ---
-title: Fabiana Ferreira | Reconheça a Graça e a Bondade de Deus. (Mt 20.1-16)
+title: Pra. Fabiana Ferreira | Reconheça a Graça e a Bondade de Deus. (Mt 20.1-16)
 date: '2025-08-04'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - comparacao
 - vitimismo
 pregadores:
-- Fabiana Ferreira
+- Pra. Fabiana Ferreira
 params:
-  pregador: Fabiana Ferreira
+  pregador: Pra. Fabiana Ferreira
   texto_biblico: Mt 20:1-16, Ef 2:8, 2Cr 5:13-14, 2Cr 7:1-3, Sl 136:1
   tema: Graça e bondade na parábola dos trabalhadores da vinha
   duracao: 00:47:24

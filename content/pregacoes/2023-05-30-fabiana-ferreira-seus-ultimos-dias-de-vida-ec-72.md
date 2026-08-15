@@ -1,5 +1,5 @@
 ---
-title: Fabiana Ferreira | Seus Últimos Dias de Vida (Ec 7.2)
+title: Pra. Fabiana Ferreira | Seus Últimos Dias de Vida (Ec 7.2)
 date: '2023-05-30'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - arrependimento
 - dependencia-de-deus
 pregadores:
-- Fabiana Ferreira
+- Pra. Fabiana Ferreira
 params:
-  pregador: Fabiana Ferreira
+  pregador: Pra. Fabiana Ferreira
   texto_biblico: Ec 7:2, Fp 4:6, Mt 6:25-34, Hb 12:14, 1Jo 1:9
   tema: 'Vivendo os últimos dias: vencer a ansiedade e buscar santidade'
   duracao: 01:00:35

@@ -9,9 +9,9 @@ tags:
 - segunda-vinda-de-cristo
 - milenio
 pregadores:
-- Pastora Magah
+- Pra. Magah
 params:
-  pregador: Pastora Magah
+  pregador: Pra. Magah
   texto_biblico: Zc 14:16-18, Jo 1:1-14
   tema: 'A Festa dos Tabernáculos: memorial de gratidão e dependência de Deus'
   duracao: 00:37:19

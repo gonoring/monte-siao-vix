@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Ampliando a Minha Visão de Deus (Lc 19. 11-27)
+title: Pr. Lyncoln Reis | Ampliando a Minha Visão de Deus (Lc 19. 11-27)
 date: '2025-05-26'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - disciplina-divina
 - fe
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Lc 19:11-27, Hb 12:5-11, 2Co 3:18, 1Co 13:12, Jo 8:31-32
   tema: A visão que temos de Deus determina os resultados que colhemos
   duracao: 01:23:06

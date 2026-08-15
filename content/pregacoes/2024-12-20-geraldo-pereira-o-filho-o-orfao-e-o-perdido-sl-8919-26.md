@@ -1,5 +1,5 @@
 ---
-title: Geraldo Pereira | O Filho, o Órfão e o Perdido (Sl 89.19-26)
+title: Pr. Geraldo Pereira | O Filho, o Órfão e o Perdido (Sl 89.19-26)
 date: '2024-12-20'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - cura-divina
 - davi-e-mical
 pregadores:
-- Geraldo Pereira
+- Pr. Geraldo Pereira
 params:
-  pregador: Geraldo Pereira
+  pregador: Pr. Geraldo Pereira
   texto_biblico: Sl 89:19-26, Jo 5:17-18, Sl 139:23-24, Dn 10:10-19, 2Co 6:18
   tema: 'A identidade de filho amado: as cadeiras do filho, do órfão e do perdido'
   duracao: 00:52:24

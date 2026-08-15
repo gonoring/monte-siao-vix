@@ -9,9 +9,9 @@ tags:
 - israel-profetico
 - esperanca
 pregadores:
-- Pr. Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr. Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Lc 21:28, Mt 24-25, 2Ts 2:1-8, Gn 3:15, Is 53
   tema: Os sinais dos últimos tempos e o chamado a olhar para cima
   duracao: 00:59:01

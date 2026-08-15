@@ -1,5 +1,5 @@
 ---
-title: Pr Jucimar | Discipulado de Finanças (Pr 10. 22)
+title: Pr. Jucimar Ramos | Discipulado de Finanças (Pr 10. 22)
 date: '2026-02-27'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - riqueza-espiritual
 - identidade-cristã
 pregadores:
-- Pr Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Pv 10:22, Jo 3:16, Dt 8:17, 1Jo 1:5, Ec 3:1
   tema: A bênção do Senhor que enriquece sem acrescentar dores
   duracao: 01:20:42

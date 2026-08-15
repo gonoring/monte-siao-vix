@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Santidade ao Senhor (Jr 35)
+title: Pr. Lyncoln Reis | Santidade ao Senhor (Jr 35)
 date: '2023-06-09'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - zelo
 - condicionamento
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Jr 35:1-19, 2Rs 10:15-17, Ef 5:18, Mt 5:29-30, Lc 16:19-31
   tema: 'A integridade dos recabitas: regra de cerca e zelo pela glória'
   duracao: 01:07:27

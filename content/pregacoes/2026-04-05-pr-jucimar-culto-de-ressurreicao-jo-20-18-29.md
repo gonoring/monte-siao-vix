@@ -1,5 +1,5 @@
 ---
-title: Pr. Jucimar | Culto de Ressurreição ( Jo 20. 18-29)
+title: Pr. Jucimar Ramos | Culto de Ressurreição ( Jo 20. 18-29)
 date: '2026-04-05'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - graca-operante
 - fe-pratica
 pregadores:
-- Pr. Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr. Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Jo 20:1-29, Jo 20:19-23, Rm 8:11, Mc 16:15-18, 1Jo 2:1-2
   tema: O poder da ressurreição manifesto na reunião e na vida cotidiana do crente
   duracao: 00:59:22

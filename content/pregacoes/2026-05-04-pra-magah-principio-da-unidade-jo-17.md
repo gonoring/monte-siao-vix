@@ -1,5 +1,5 @@
 ---
-title: Pra Magah | Principio da Unidade (Jo 17)
+title: Pra. Magah | Principio da Unidade (Jo 17)
 date: '2026-05-04'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - relacionamentos-cristao
 - amadurecimento-espiritual
 pregadores:
-- Pra Magah
+- Pra. Magah
 params:
-  pregador: Pra Magah
+  pregador: Pra. Magah
   texto_biblico: Jo 17:11, Jo 17:21, Jo 17:22, Jo 17:23, 1Jo 4:20
   tema: O princípio da unidade na Igreja segundo a oração sacerdotal de Jesus
   duracao: 00:50:16

@@ -9,9 +9,9 @@ tags:
 - saul-e-davi
 - ceia-do-senhor
 pregadores:
-- Pastora Magah
+- Pra. Magah
 params:
-  pregador: Pastora Magah
+  pregador: Pra. Magah
   texto_biblico: Sl 103:1-2, 2Tm 3:2, Rm 1:21, 1Ts 5:18, Pv 30
   tema: 'Dominando a ingratidão: cultivando um coração grato'
   duracao: 00:45:04

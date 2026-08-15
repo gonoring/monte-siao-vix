@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Todas as Coisas (Rm 8.28)
+title: Pr. Lyncoln Reis | Todas as Coisas (Rm 8.28)
 date: '2024-02-06'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - confianca
 - disciplina-divina
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Rm 8:28, Gl 6:7, Hb 12:6-11, Ef 6:12, Pv 20:30
   tema: 'Todas as coisas cooperam para o bem: como responder ao sofrimento'
   duracao: 00:53:22

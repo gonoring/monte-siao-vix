@@ -1,5 +1,5 @@
 ---
-title: Luzia Helmer | O que te Impede de Desfrutar da Vida Abundante? (Jo 10. 1-11)
+title: Pra. Luzia Helmer | O que te Impede de Desfrutar da Vida Abundante? (Jo 10. 1-11)
 date: '2025-07-29'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - fe
 - escassez-espiritual
 pregadores:
-- Luzia Helmer
+- Pra. Luzia Helmer
 params:
-  pregador: Luzia Helmer
+  pregador: Pra. Luzia Helmer
   texto_biblico: Jo 10:1-5, Jo 10:10, Jo 10:11, Gn 12:1-4
   tema: 'Vencer o ladrão que rouba a vida abundante: identidade de ovelha e filho'
   duracao: 01:15:30

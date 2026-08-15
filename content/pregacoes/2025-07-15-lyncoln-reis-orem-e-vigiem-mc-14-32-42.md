@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Orem e Vigiem (Mc 14. 32-42)
+title: Pr. Lyncoln Reis | Orem e Vigiem (Mc 14. 32-42)
 date: '2025-07-15'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - getsemani
 - batalha-espiritual
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Mc 14:32-42, Lc 22:31-32, 1Co 10:13, Hb 10:35-38, Pv 22:3
   tema: 'Vigiar e orar: vencer a tentação antes que ela aconteça'
   duracao: 01:05:27

@@ -9,9 +9,9 @@ tags:
 - vida-em-comunidade
 - fortes-e-fracos
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Rm 15:1-7, Pv 18:19, 1Jo 2:9-11, Gl 2:20, 1Pe 3:7
   tema: Como os fortes sustentam a fé e vivem em unidade com os fracos
   duracao: 01:33:46

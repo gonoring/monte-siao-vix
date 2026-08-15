@@ -1,5 +1,5 @@
 ---
-title: Pr. Lyncoln | Shalom, A paz de Deus (Gn 28. 10-22)
+title: Pr. Lyncoln Reis | Shalom, A paz de Deus (Gn 28. 10-22)
 date: '2026-06-15'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - entrega-dízimo
 - confiança-divina
 pregadores:
-- Pr. Lyncoln
+- Pr. Lyncoln Reis
 params:
-  pregador: Pr. Lyncoln
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Gn 28:10-22, Jr 29:11, Js 1:8, Fp 4:11, Ml 3:10
   tema: 'A paz de Deus (Shalom): prosperidade através da aliança pessoal com Deus'
   duracao: 01:24:41

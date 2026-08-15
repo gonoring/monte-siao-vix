@@ -1,5 +1,5 @@
 ---
-title: Pra Magah | Restaurando a Intimidade com Deus (Is 29.13)
+title: Pra. Magah | Restaurando a Intimidade com Deus (Is 29.13)
 date: '2026-03-01'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - relacionamento-com-Deus
 - vicio-espiritual
 pregadores:
-- Pra Magah
+- Pra. Magah
 params:
-  pregador: Pra Magah
+  pregador: Pra. Magah
   texto_biblico: Is 29:13, Mc 12:30, Jo 17:3, Mt 7:21-23, Tg 4:8
   tema: Restaurando a intimidade com Deus além dos rituais religiosos
   duracao: 00:58:57

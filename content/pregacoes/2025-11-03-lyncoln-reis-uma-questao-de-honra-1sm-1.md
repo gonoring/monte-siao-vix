@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Uma Questão de Honra (1SM 1)
+title: Pr. Lyncoln Reis | Uma Questão de Honra (1SM 1)
 date: '2025-11-03'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - esperanca
 - ana-e-samuel
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: 1Sm 1, 1Sm 2:30, Mt 10:40, Mc 6:3-6, Pv 13:12
   tema: O princípio da honra e a recompensa divina na vida de Ana
   duracao: 01:00:12

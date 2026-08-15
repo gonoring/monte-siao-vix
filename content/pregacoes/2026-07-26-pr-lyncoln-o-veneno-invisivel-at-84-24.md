@@ -1,5 +1,5 @@
 ---
-title: Pr. Lyncoln | O Veneno Invisível (At 8.4-24)
+title: Pr. Lyncoln Reis | O Veneno Invisível (At 8.4-24)
 date: '2026-07-26'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - cura-emocional
 - autossabotagem
 pregadores:
-- Pr. Lyncoln
+- Pr. Lyncoln Reis
 params:
-  pregador: Pr. Lyncoln
+  pregador: Pr. Lyncoln Reis
   texto_biblico: At 8:4-24, Ef 4:26-27, Ef 4:30, 1Jo 2:9-11, Mt 6:21
   tema: 'O veneno invisível da amargura: raízes, consequências e cura'
   duracao: 01:07:20

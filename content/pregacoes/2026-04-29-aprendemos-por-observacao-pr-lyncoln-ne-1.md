@@ -9,9 +9,9 @@ tags:
 - integridade
 - dependencia-deus
 pregadores:
-- Pr. Lyncoln
+- Pr. Lyncoln Reis
 params:
-  pregador: Pr. Lyncoln
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Ne 1, Pv 27:12, Mt 6:22-23, Rm 15:4, Hb 10:1, Tg 3:11-12, Sl 97:10
   tema: 'Aprendemos por observação: características de hombridade em Neemias'
   duracao: 01:24:22

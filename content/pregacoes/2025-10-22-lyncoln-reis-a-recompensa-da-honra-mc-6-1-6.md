@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | A Recompensa da Honra (Mc 6. 1-6)
+title: Pr. Lyncoln Reis | A Recompensa da Honra (Mc 6. 1-6)
 date: '2025-10-22'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - primicias
 - autoridade-espiritual
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Mc 6:1-6, 1Sm 2:30, Pv 3:9-10, Ml 1:6-14, Mt 10:40-42
   tema: 'A recompensa da honra: honrar a Deus, líderes e autoridades'
   duracao: 01:10:20

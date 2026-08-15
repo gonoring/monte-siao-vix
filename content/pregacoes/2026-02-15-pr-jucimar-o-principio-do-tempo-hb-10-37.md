@@ -1,5 +1,5 @@
 ---
-title: Pr. Jucimar | O Princípio do Tempo (Hb 10. 37)
+title: Pr. Jucimar Ramos | O Princípio do Tempo (Hb 10. 37)
 date: '2026-02-15'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - ciclos-vitais
 - espera-paciencia
 pregadores:
-- Pr. Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr. Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Hb 10:37, Hb 10:35-39, Is 49:8, Is 55:6, Ec 3:1-8
   tema: O princípio do tempo como lei universal que governa a criação
   duracao: 01:05:20

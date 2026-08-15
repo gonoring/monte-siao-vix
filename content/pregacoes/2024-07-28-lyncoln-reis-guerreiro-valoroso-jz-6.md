@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Guerreiro Valoroso (Jz 6)
+title: Pr. Lyncoln Reis | Guerreiro Valoroso (Jz 6)
 date: '2024-07-28'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - alinhamento-espiritual
 - guerra-espiritual
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Jz 6:1-16, Rm 15:4, Hb 11:3, Sl 37:4-5
   tema: 'Orar, discernir os tempos e se alinhar: o caminho de Gideão à vitória'
   duracao: 00:52:34

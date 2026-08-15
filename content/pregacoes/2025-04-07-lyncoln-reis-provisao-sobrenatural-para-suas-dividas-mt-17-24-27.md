@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Provisão sobrenatural para suas dívidas (Mt 17. 24-27)
+title: Pr. Lyncoln Reis | Provisão sobrenatural para suas dívidas (Mt 17. 24-27)
 date: '2025-04-07'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - posicionamento
 - dependencia-de-deus
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Mt 17:24-27, Rm 15:4, Rm 13:7, Sl 127:2
   tema: 'Provisão sobrenatural para dívidas: posicionar-se, depender e obedecer'
   duracao: 01:21:13

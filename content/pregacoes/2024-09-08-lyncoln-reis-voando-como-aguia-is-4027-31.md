@@ -1,5 +1,5 @@
 ---
-title: Lyncoln Reis | Voando como Águia (Is 40:27-31)
+title: Pr. Lyncoln Reis | Voando como Águia (Is 40:27-31)
 date: '2024-09-08'
 draft: false
 tags:
@@ -9,9 +9,9 @@ tags:
 - cuidado-integral
 - cansaco-e-renovacao
 pregadores:
-- Lyncoln Reis
+- Pr. Lyncoln Reis
 params:
-  pregador: Lyncoln Reis
+  pregador: Pr. Lyncoln Reis
   texto_biblico: Is 40:27-31, Mt 11:28-29, Gl 6:2-5, Pv 13:12, Hb 10:38
   tema: 'Voar como águia: renovar as forças e aprender o descanso em Deus'
   duracao: 01:19:59

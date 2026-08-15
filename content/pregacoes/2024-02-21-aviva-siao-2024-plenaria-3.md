@@ -9,9 +9,9 @@ tags:
 - graca
 - discernimento
 pregadores:
-- Pr. Jucimar
+- Pr. Jucimar Ramos
 params:
-  pregador: Pr. Jucimar
+  pregador: Pr. Jucimar Ramos
   texto_biblico: Mc 7:7-9, Cl 2:22, Ap 2:1-7, Hb 4:12, Ap 3:8-11
   tema: Teologia e escatologia como ciência humana, não palavra de Deus
   duracao: 01:22:38

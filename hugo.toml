@@ -9,8 +9,14 @@ buildFuture = false
 buildExpired = false
 pagination.pagerSize = 20
 
+[outputFormats.TAGSDATA]
+  mediaType = "application/json"
+  baseName = "tags-data"
+  isPlainText = true
+  notAlternative = true
+
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "TAGSDATA"]
 
 [taxonomies]
   tag = "tags"
@@ -73,6 +79,11 @@ pagination.pagerSize = 20
     name = "Temas"
     url = "/tags/"
     weight = 30
+  [[menu.main]]
+    identifier = "filtro"
+    name = "Filtrar por temas"
+    url = "/filtro/"
+    weight = 35
   [[menu.main]]
     identifier = "busca"
     name = "Busca"

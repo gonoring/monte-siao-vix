@@ -1,0 +1,172 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description }}</div>
+  {{- end }}
+</header>
+
+<div class="filtro-container">
+  <div class="filtro-controle">
+    <input id="filtro-busca-tag" type="search" placeholder="Buscar tema…" aria-label="Buscar tema" autocomplete="off">
+    <div class="filtro-modo" role="group" aria-label="Modo de combinação dos temas">
+      <button type="button" class="filtro-modo-btn is-ativo" data-modo="ou">Qualquer tema selecionado</button>
+      <button type="button" class="filtro-modo-btn" data-modo="e">Todos os temas selecionados</button>
+    </div>
+  </div>
+
+  <div id="filtro-selecionados" class="filtro-selecionados" aria-live="polite"></div>
+
+  <div id="filtro-tags" class="filtro-tags-nuvem" aria-label="Lista de temas"></div>
+
+  <hr class="filtro-separador">
+
+  <div id="filtro-resultado-contagem" class="filtro-contagem"></div>
+  <ul id="filtro-resultados" class="filtro-resultados"></ul>
+</div>
+
+<script>
+(function () {
+  const DATA_URL = "{{ "tags-data.json" | relURL }}";
+  const selecionadas = new Set();
+  let modo = "ou";
+  let dados = [];
+  let contagemTags = new Map();
+
+  const elBusca = document.getElementById("filtro-busca-tag");
+  const elNuvem = document.getElementById("filtro-tags");
+  const elSelecionadas = document.getElementById("filtro-selecionados");
+  const elContagem = document.getElementById("filtro-resultado-contagem");
+  const elResultados = document.getElementById("filtro-resultados");
+  const botoesModo = document.querySelectorAll(".filtro-modo-btn");
+
+  function normalizar(s) {
+    return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  }
+
+  function computarContagem() {
+    contagemTags = new Map();
+    dados.forEach(item => {
+      (item.tags || []).forEach(t => {
+        contagemTags.set(t, (contagemTags.get(t) || 0) + 1);
+      });
+    });
+  }
+
+  function renderizarNuvem(filtro) {
+    const termo = normalizar(filtro || "");
+    const tags = Array.from(contagemTags.entries())
+      .filter(([tag]) => !termo || normalizar(tag).includes(termo))
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "pt"));
+
+    elNuvem.innerHTML = "";
+    if (tags.length === 0) {
+      elNuvem.appendChild(criarElemento("p", "filtro-vazio", "Nenhum tema encontrado."));
+      return;
+    }
+    tags.forEach(([tag, n]) => {
+      const chip = document.createElement("button");
+      chip.type = "button";
+      chip.className = "filtro-chip" + (selecionadas.has(tag) ? " is-selecionado" : "");
+      chip.dataset.tag = tag;
+      chip.innerHTML = `${escapeHtml(tag)} <span class="filtro-chip-n">${n}</span>`;
+      chip.addEventListener("click", () => alternarTag(tag));
+      elNuvem.appendChild(chip);
+    });
+  }
+
+  function criarElemento(tag, className, texto) {
+    const el = document.createElement(tag);
+    if (className) el.className = className;
+    if (texto) el.textContent = texto;
+    return el;
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  }
+
+  function alternarTag(tag) {
+    if (selecionadas.has(tag)) selecionadas.delete(tag);
+    else selecionadas.add(tag);
+    renderizarSelecionadas();
+    renderizarNuvem(elBusca.value);
+    renderizarResultados();
+  }
+
+  function renderizarSelecionadas() {
+    elSelecionadas.innerHTML = "";
+    if (selecionadas.size === 0) {
+      elSelecionadas.classList.add("is-vazio");
+      return;
+    }
+    elSelecionadas.classList.remove("is-vazio");
+    selecionadas.forEach(tag => {
+      const pill = document.createElement("button");
+      pill.type = "button";
+      pill.className = "filtro-pill";
+      pill.innerHTML = `${escapeHtml(tag)} <span aria-hidden="true">×</span>`;
+      pill.setAttribute("aria-label", `Remover tema ${tag}`);
+      pill.addEventListener("click", () => alternarTag(tag));
+      elSelecionadas.appendChild(pill);
+    });
+  }
+
+  function renderizarResultados() {
+    elResultados.innerHTML = "";
+    if (selecionadas.size === 0) {
+      elContagem.textContent = "Selecione um ou mais temas acima para ver as pregações correspondentes.";
+      return;
+    }
+    const alvo = Array.from(selecionadas);
+    const encontrados = dados.filter(item => {
+      const tagsItem = item.tags || [];
+      return modo === "e"
+        ? alvo.every(t => tagsItem.includes(t))
+        : alvo.some(t => tagsItem.includes(t));
+    }).sort((a, b) => (a.date < b.date ? 1 : -1));
+
+    elContagem.textContent = encontrados.length === 0
+      ? "Nenhuma pregação encontrada com essa combinação de temas."
+      : `${encontrados.length} pregaç${encontrados.length === 1 ? "ão" : "ões"} encontrada${encontrados.length === 1 ? "" : "s"}.`;
+
+    encontrados.forEach(item => {
+      const li = document.createElement("li");
+      li.className = "filtro-resultado-item";
+      const data = new Date(item.date + "T00:00:00");
+      const dataFmt = isNaN(data) ? item.date : data.toLocaleDateString("pt-BR", { day: "2-digit", month: "short", year: "numeric" });
+      li.innerHTML = `
+        <a href="${item.permalink}" class="filtro-resultado-link">${escapeHtml(item.title)}</a>
+        <div class="filtro-resultado-meta">${escapeHtml(item.pregador || "")} · ${dataFmt}</div>
+      `;
+      elResultados.appendChild(li);
+    });
+  }
+
+  botoesModo.forEach(btn => {
+    btn.addEventListener("click", () => {
+      modo = btn.dataset.modo;
+      botoesModo.forEach(b => b.classList.toggle("is-ativo", b === btn));
+      renderizarResultados();
+    });
+  });
+
+  elBusca.addEventListener("input", () => renderizarNuvem(elBusca.value));
+
+  fetch(DATA_URL)
+    .then(r => r.json())
+    .then(json => {
+      dados = json;
+      computarContagem();
+      renderizarNuvem("");
+      renderizarSelecionadas();
+      renderizarResultados();
+    })
+    .catch(() => {
+      elContagem.textContent = "Não foi possível carregar os dados de temas.";
+    });
+})();
+</script>
+
+{{- end }}{{/* end main */}}

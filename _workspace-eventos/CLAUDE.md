@@ -30,11 +30,14 @@ Trabalho com continuidade entre sessões mantém memória persistente:
 
 ```
 _claude-memory/
-  ESTADO-ATUAL.md          ← status, próximos passos, histórico de sessões
-  sessoes/YYYY-MM-DD.md    ← log detalhado de cada sessão
+  ESTADO-ATUAL.md          ← status, próximos passos, decisões, pendências, histórico
+  sessoes/_template.md     ← formato do log de sessão
+  sessoes/AAAA-MM-DD.md    ← log detalhado de cada sessão
 ```
 
-O `ESTADO-ATUAL.md` é a camada sempre carregada e resolve a maior parte das retomadas. O log de sessão registra: solicitação do usuário, ações executadas, arquivos criados ou modificados (caminho relativo), decisões tomadas, resultados e pendências.
+O `ESTADO-ATUAL.md` é a camada sempre carregada e resolve a maior parte das retomadas. O log de sessão registra: solicitação do usuário, ações executadas, arquivos criados ou modificados (caminho relativo), decisões tomadas, resultados com evidência e pendências.
+
+**O formato dos dois artefatos é o dos próprios arquivos** — o `ESTADO-ATUAL.md` já vem com suas seções, e `sessoes/_template.md` é o gabarito do log. Não improvisar estrutura nova: preencher a que está lá, e alterá-la só deliberadamente, para todas as sessões seguintes.
 
 Ao encerrar a sessão — ou quando o usuário pedir —, atualizar o `ESTADO-ATUAL.md` com o status, o que foi feito, os próximos passos e uma linha no topo do histórico de sessões.
 

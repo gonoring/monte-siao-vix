@@ -3,11 +3,15 @@ title: Alan Ramos | Sua Identidade é Luz (Rm 7. 18-20)
 date: '2026-03-16'
 draft: false
 tags:
-- identidade-espiritual
+- identidade
+- espiritual
 - santidade
-- natureza-divina
-- rejeicao-culpa
-- filhos-de-deus
+- natureza
+- divina
+- rejeicao
+- culpa
+- filhos
+- deus
 pregadores:
 - Alan Ramos
 params:

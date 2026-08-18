@@ -6,7 +6,8 @@ tags:
 - unidade
 - perdao
 - reconciliacao
-- oracao-concordancia
+- oracao
+- concordancia
 - pentecostes
 pregadores:
 - Erik Avilez

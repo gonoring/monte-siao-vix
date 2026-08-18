@@ -3,9 +3,11 @@ title: Fagner Marano | A Entrega Leva a Cura (Pr 16. 3)
 date: '2025-08-18'
 draft: false
 tags:
-- dependencia-de-deus
+- dependencia
+- deus
 - controle
-- cura-interior
+- cura
+- interior
 - habitos
 - quebrantamento
 pregadores:

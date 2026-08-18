@@ -3,13 +3,19 @@ title: Leonardo Gonoring | Culto de Sacerdotes
 date: '2026-07-29'
 draft: false
 tags:
-- culto-de-sacerdotes
-- ministracao-propria
-- dependencia-de-deus
+- culto
+- sacerdotes
+- ministracao
+- propria
+- dependencia
+- deus
 - obediencia
-- proposito-divino
-- lideranca-familiar
-- transformacao-pessoal
+- proposito
+- divino
+- lideranca
+- familiar
+- transformacao
+- pessoal
 pregadores:
 - Leonardo Gonoring Simon
 params:

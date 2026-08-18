@@ -3,10 +3,13 @@ title: Pra. Magah | Aquele que Crê em Mim Viverá Eternamente (Jo 11.25-26, Fp 
 date: '2023-11-06'
 draft: false
 tags:
-- vida-eterna
-- consolo-na-morte
-- proposito-de-vida
-- graca-de-deus
+- vida
+- eterna
+- consolo
+- morte
+- proposito
+- graca
+- deus
 - escatologia
 pregadores:
 - Pra. Magah

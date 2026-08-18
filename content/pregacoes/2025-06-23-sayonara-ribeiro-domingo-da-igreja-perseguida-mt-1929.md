@@ -3,11 +3,17 @@ title: Sayonara Ribeiro | Domingo da Igreja Perseguida (Mt 19.29)
 date: '2025-06-23'
 draft: false
 tags:
-- igreja-perseguida
-- renuncia-crista
-- jovem-rico
-- seguranca-em-deus
-- mundo-espiritual-e-idolatria
+- igreja
+- perseguida
+- renuncia
+- crista
+- jovem
+- rico
+- seguranca
+- deus
+- mundo
+- espiritual
+- idolatria
 pregadores:
 - Sayonara Ribeiro
 params:

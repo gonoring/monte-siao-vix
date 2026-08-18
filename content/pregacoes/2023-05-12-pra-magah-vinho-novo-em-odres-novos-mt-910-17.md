@@ -5,9 +5,11 @@ draft: false
 tags:
 - santificacao
 - discipulado
-- maturidade-espiritual
+- maturidade
+- espiritual
 - uncao
-- nova-alianca
+- nova
+- alianca
 pregadores:
 - Pra. Magah
 params:

@@ -7,7 +7,8 @@ tags:
 - oracao
 - sacerdocio
 - esperanca
-- ana-e-samuel
+- ana
+- samuel
 pregadores:
 - Pr. Lyncoln Reis
 params:

@@ -6,7 +6,8 @@ tags:
 - eternidade
 - sofrimento
 - escolha
-- principados-potestades
+- principados
+- potestades
 - graca
 pregadores:
 - Pr. Jucimar Ramos

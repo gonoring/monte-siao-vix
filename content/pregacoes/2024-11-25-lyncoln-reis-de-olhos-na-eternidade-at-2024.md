@@ -3,10 +3,14 @@ title: Pr. Lyncoln Reis | De olhos na Eternidade (At 20.24)
 date: '2024-11-25'
 draft: false
 tags:
-- proposito-e-servico
+- proposito
+- servico
 - testemunho
-- morte-para-si-mesmo
-- irmaos-moravios
+- morte
+- si
+- mesmo
+- irmaos
+- moravios
 - eternidade
 pregadores:
 - Pr. Lyncoln Reis

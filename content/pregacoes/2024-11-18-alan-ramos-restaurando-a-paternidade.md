@@ -6,8 +6,10 @@ tags:
 - paternidade
 - identidade
 - disciplina
-- seguranca-basica
-- hombridade-masculina
+- seguranca
+- basica
+- hombridade
+- masculina
 pregadores:
 - Alan Ramos
 params:

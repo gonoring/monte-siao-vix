@@ -3,10 +3,13 @@ title: 'Pr. Jucimar Ramos | Aniversário da Igreja: Ano 11'
 date: '2023-03-08'
 draft: false
 tags:
-- aniversario-da-igreja
-- principio-do-tempo
+- aniversario
+- igreja
+- principio
+- tempo
 - perdao
-- simbologia-numerica
+- simbologia
+- numerica
 - promessa
 pregadores:
 - Pr. Jucimar Ramos

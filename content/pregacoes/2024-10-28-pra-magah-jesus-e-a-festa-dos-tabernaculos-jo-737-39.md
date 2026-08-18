@@ -3,11 +3,15 @@ title: Pra. Magah | Jesus e a Festa dos Tabernáculos (Jo 7.37-39)
 date: '2024-10-28'
 draft: false
 tags:
-- festas-judaicas
+- festas
+- judaicas
 - gratidao
-- espirito-santo
-- memoria-espiritual
-- dependencia-de-deus
+- espirito
+- santo
+- memoria
+- espiritual
+- dependencia
+- deus
 pregadores:
 - Pra. Magah
 params:

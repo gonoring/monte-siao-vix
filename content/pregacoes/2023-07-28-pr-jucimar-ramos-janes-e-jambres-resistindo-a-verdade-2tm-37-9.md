@@ -3,9 +3,11 @@ title: 'Pr. Jucimar Ramos | Janes e Jambres: Resistindo à Verdade (2Tm 3.7-9)'
 date: '2023-07-28'
 draft: false
 tags:
-- ultimos-dias
+- ultimos
+- dias
 - autoavaliacao
-- resistencia-a-verdade
+- resistencia
+- verdade
 - graca
 - pecado
 pregadores:

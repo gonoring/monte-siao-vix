@@ -4,10 +4,13 @@ date: '2025-05-11'
 draft: false
 tags:
 - contemplacao
-- monte-sinai
-- gloria-de-deus
+- monte
+- sinai
+- gloria
+- deus
 - idolatria
-- vida-devocional
+- vida
+- devocional
 pregadores:
 - Pra. Magah
 params:

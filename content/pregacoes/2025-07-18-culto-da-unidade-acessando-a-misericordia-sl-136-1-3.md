@@ -6,7 +6,8 @@ tags:
 - misericordia
 - graca
 - alianca
-- identidade-de-deus
+- identidade
+- deus
 - compaixao
 pregadores:
 - Pr. Jucimar Ramos

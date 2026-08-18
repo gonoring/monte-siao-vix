@@ -5,8 +5,10 @@ draft: false
 tags:
 - santificacao
 - gratidao
-- oracao-continua
-- resistencia-espiritual
+- oracao
+- continua
+- resistencia
+- espiritual
 - profecia
 pregadores:
 - Pr. Lyncoln Reis

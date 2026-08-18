@@ -6,8 +6,10 @@ tags:
 - gratidao
 - memorial
 - eden
-- saul-e-davi
-- ceia-do-senhor
+- saul
+- davi
+- ceia
+- senhor
 pregadores:
 - Pra. Magah
 params:

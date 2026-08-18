@@ -3,11 +3,16 @@ title: Pra. Magah | Reacenda Sua Paixão (Jr 2:1-3)
 date: '2025-02-16'
 draft: false
 tags:
-- primeiro-amor
-- cisternas-rachadas
-- distracoes-espirituais
-- intimidade-com-deus
-- disciplina-devocional
+- primeiro
+- amor
+- cisternas
+- rachadas
+- distracoes
+- espirituais
+- intimidade
+- deus
+- disciplina
+- devocional
 pregadores:
 - Pra. Magah
 params:

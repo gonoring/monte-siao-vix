@@ -5,9 +5,10 @@ draft: false
 tags:
 - avivamento
 - santidade
-- dependencia-de-deus
+- dependencia
+- deus
 - vigilancia
-- relacionamento-com-deus
+- relacionamento
 pregadores:
 - Gabriel Souza
 params:

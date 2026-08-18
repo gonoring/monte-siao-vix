@@ -3,11 +3,16 @@ title: Pr. Téo Freitas | Deus Ama o Mundo Através de Você (Jo 3. 14-21)
 date: '2025-06-23'
 draft: false
 tags:
-- joao-3-16
-- luz-e-trevas
-- privilegio-de-ser-filho
-- trindade-e-envio
-- testemunho-vivo
+- joao
+- luz
+- trevas
+- privilegio
+- ser
+- filho
+- trindade
+- envio
+- testemunho
+- vivo
 pregadores:
 - Pr. Téo Freitas
 params:

@@ -3,10 +3,14 @@ title: Pra. Magah | A Festa dos Tabernáculos (Zc 14. 16-18)
 date: '2025-10-13'
 draft: false
 tags:
-- festa-dos-tabernaculos
+- festa
+- tabernaculos
 - gratidao
-- dependencia-de-deus
-- segunda-vinda-de-cristo
+- dependencia
+- deus
+- segunda
+- vinda
+- cristo
 - milenio
 pregadores:
 - Pra. Magah

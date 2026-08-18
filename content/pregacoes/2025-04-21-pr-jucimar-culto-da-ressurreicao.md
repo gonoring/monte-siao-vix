@@ -3,11 +3,18 @@ title: Pr. Jucimar | Culto da Ressurreição
 date: '2025-04-21'
 draft: false
 tags:
-- poder-da-ressurreicao
-- fe-que-decide-crer
-- evangelho-de-1-corintios-15
-- maria-madalena
-- batismo-morte-e-vida
+- poder
+- ressurreicao
+- fe
+- decide
+- crer
+- evangelho
+- corintios
+- maria
+- madalena
+- batismo
+- morte
+- vida
 pregadores:
 - Pr. Jucimar Ramos
 params:

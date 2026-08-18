@@ -4,10 +4,12 @@ date: '2025-05-19'
 draft: false
 tags:
 - perseveranca
-- dependencia-de-deus
+- dependencia
+- deus
 - ansiedade
 - identidade
-- fruto-do-espirito
+- fruto
+- espirito
 pregadores:
 - Pr. Jucimar Ramos
 params:

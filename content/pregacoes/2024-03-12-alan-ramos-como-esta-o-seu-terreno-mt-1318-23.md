@@ -3,11 +3,15 @@ title: Alan Ramos | Como Está o Seu Terreno? (Mt 13.18-23)
 date: '2024-03-12'
 draft: false
 tags:
-- parabola-do-semeador
-- terrenos-do-coracao
-- cura-interior
+- parabola
+- semeador
+- terrenos
+- coracao
+- cura
+- interior
 - disciplina
-- fruto-do-espirito
+- fruto
+- espirito
 pregadores:
 - Alan Ramos
 params:

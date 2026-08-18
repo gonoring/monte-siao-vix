@@ -3,11 +3,16 @@ title: Pr. Jucimar Ramos | O Princípio do Tempo (Hb 10. 37)
 date: '2026-02-15'
 draft: false
 tags:
-- tempo-divino
-- principios-universais
-- semeadura-colheita
-- ciclos-vitais
-- espera-paciencia
+- tempo
+- divino
+- principios
+- universais
+- semeadura
+- colheita
+- ciclos
+- vitais
+- espera
+- paciencia
 pregadores:
 - Pr. Jucimar Ramos
 params:

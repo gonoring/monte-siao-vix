@@ -3,11 +3,16 @@ title: Makários Laurett | Derrame Vida Através da Palavra (Jn)
 date: '2025-06-30'
 draft: false
 tags:
-- livro-de-jonas
-- obediencia-e-fuga
-- egoismo-espiritual
-- arrependimento-de-ninive
-- derramar-a-palavra
+- livro
+- jonas
+- obediencia
+- fuga
+- egoismo
+- espiritual
+- arrependimento
+- ninive
+- derramar
+- palavra
 pregadores:
 - Makários Laurett
 params:

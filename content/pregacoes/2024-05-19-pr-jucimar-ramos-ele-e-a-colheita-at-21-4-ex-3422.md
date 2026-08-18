@@ -4,7 +4,8 @@ date: '2024-05-19'
 draft: false
 tags:
 - pentecostes
-- festas-judaicas
+- festas
+- judaicas
 - colheita
 - uncao
 - prosperidade

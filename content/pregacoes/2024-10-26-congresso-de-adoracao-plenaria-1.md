@@ -4,10 +4,14 @@ date: '2024-10-26'
 draft: false
 tags:
 - adoracao
-- reino-de-deus
-- batalha-espiritual
-- torre-de-babel
-- israel-profetico
+- reino
+- deus
+- batalha
+- espiritual
+- torre
+- babel
+- israel
+- profetico
 pregadores:
 - Pr. Jucimar Ramos
 params:

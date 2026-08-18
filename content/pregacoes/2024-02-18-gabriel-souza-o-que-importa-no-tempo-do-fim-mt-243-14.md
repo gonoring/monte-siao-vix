@@ -6,7 +6,8 @@ tags:
 - escatologia
 - perseveranca
 - unidade
-- sinais-dos-tempos
+- sinais
+- tempos
 - apostasia
 pregadores:
 - Gabriel Souza

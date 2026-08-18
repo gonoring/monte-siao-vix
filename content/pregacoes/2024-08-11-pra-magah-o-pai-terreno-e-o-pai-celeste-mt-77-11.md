@@ -4,10 +4,14 @@ date: '2024-08-11'
 draft: false
 tags:
 - paternidade
-- dia-dos-pais
-- identidade-masculina
-- bencao-dos-filhos
-- provisao-divina
+- dia
+- pais
+- identidade
+- masculina
+- bencao
+- filhos
+- provisao
+- divina
 pregadores:
 - Pra. Magah
 params:

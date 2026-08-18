@@ -3,11 +3,13 @@ title: Beth Bourguignon | Recordatórios (1Sm 21.1-9)
 date: '2023-03-21'
 draft: false
 tags:
-- memoria-espiritual
-- fome-de-deus
+- memoria
+- espiritual
+- fome
+- deus
 - missoes
 - restauracao
-- presenca-de-deus
+- presenca
 pregadores:
 - Beth Bourguignon
 params:

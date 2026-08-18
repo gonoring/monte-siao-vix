@@ -3,11 +3,14 @@ title: Pra. Magah | O Que Tem Nos Embaraçado (Hb 12.1-2)
 date: '2024-06-16'
 draft: false
 tags:
-- distracoes-espirituais
-- hebreus-12
-- vida-devocional
+- distracoes
+- espirituais
+- hebreus
+- vida
+- devocional
 - prioridades
-- parabola-do-banquete
+- parabola
+- banquete
 pregadores:
 - Pra. Magah
 params:

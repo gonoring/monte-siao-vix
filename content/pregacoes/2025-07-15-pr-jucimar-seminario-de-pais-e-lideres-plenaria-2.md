@@ -3,11 +3,17 @@ title: Pr. Jucimar | Seminário de Pais e Líderes (Plenária 2)
 date: '2025-07-15'
 draft: false
 tags:
-- proxima-geracao
-- escandalo-espiritual
-- iniquidade-geracional
-- principados-territoriais
-- seminario-de-pais-e-lideres
+- proxima
+- geracao
+- escandalo
+- espiritual
+- iniquidade
+- geracional
+- principados
+- territoriais
+- seminario
+- pais
+- lideres
 pregadores:
 - Pr. Jucimar Ramos
 params:

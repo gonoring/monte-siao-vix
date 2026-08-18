@@ -4,9 +4,12 @@ date: '2026-02-22'
 draft: false
 tags:
 - unidade
-- poder-espiritual
-- numeros-biblicos
-- oracao-concordancia
+- poder
+- espiritual
+- numeros
+- biblicos
+- oracao
+- concordancia
 - perdao
 pregadores:
 - Pr. Jucimar Ramos

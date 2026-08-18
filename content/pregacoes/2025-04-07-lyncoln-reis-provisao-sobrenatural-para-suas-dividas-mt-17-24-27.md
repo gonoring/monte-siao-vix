@@ -3,11 +3,14 @@ title: Pr. Lyncoln Reis | Provisão sobrenatural para suas dívidas (Mt 17. 24-2
 date: '2025-04-07'
 draft: false
 tags:
-- financas-e-fe
-- provisao-sobrenatural
+- financas
+- fe
+- provisao
+- sobrenatural
 - obediencia
 - posicionamento
-- dependencia-de-deus
+- dependencia
+- deus
 pregadores:
 - Pr. Lyncoln Reis
 params:

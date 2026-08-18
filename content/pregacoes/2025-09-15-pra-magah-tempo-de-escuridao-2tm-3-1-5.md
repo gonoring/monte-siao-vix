@@ -3,11 +3,17 @@ title: Pra. Magah | Tempo de Escuridão (2Tm 3. 1-5)
 date: '2025-09-15'
 draft: false
 tags:
-- tempo-do-fim
-- fruto-do-espirito
-- parabola-das-dez-virgens
-- religiosidade-de-aparencia
-- vigilancia-espiritual
+- tempo
+- fim
+- fruto
+- espirito
+- parabola
+- dez
+- virgens
+- religiosidade
+- aparencia
+- vigilancia
+- espiritual
 pregadores:
 - Pra. Magah
 params:

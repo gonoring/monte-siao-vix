@@ -4,10 +4,11 @@ date: '2023-03-30'
 draft: false
 tags:
 - arrependimento
-- cura-interior
+- cura
+- interior
 - quebrantamento
 - identidade
-- cura-emocional
+- emocional
 pregadores:
 - Pr. Téo Freitas
 params:

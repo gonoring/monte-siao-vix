@@ -3,11 +3,16 @@ title: Pr. Jucimar Ramos | Uma Experiência com Deus (Jo 1.1-18)
 date: '2024-09-19'
 draft: false
 tags:
-- experiencia-com-deus
-- evangelho-de-joao
-- novo-nascimento
-- confissao-de-pedro
-- racionalidade-vs-revelacao
+- experiencia
+- deus
+- evangelho
+- joao
+- novo
+- nascimento
+- confissao
+- pedro
+- racionalidade
+- revelacao
 pregadores:
 - Pr. Jucimar Ramos
 params:

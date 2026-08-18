@@ -7,7 +7,8 @@ tags:
 - macabeus
 - uncao
 - consagracao
-- provisao-divina
+- provisao
+- divina
 pregadores:
 - Pra. Magah
 params:

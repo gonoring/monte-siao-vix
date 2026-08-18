@@ -5,9 +5,13 @@ draft: false
 tags:
 - arrependimento
 - precursor
-- remanescente-fiel
-- morte-para-si-mesmo
-- deserto-espiritual
+- remanescente
+- fiel
+- morte
+- si
+- mesmo
+- deserto
+- espiritual
 pregadores:
 - Deivison Pires
 params:

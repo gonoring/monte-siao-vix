@@ -3,11 +3,14 @@ title: Pra. Magah | Permanecendo no Relacionamento (Jo 15.4-10)
 date: '2024-08-25'
 draft: false
 tags:
-- permanecer-em-cristo
-- relacionamento-com-deus
-- vida-devocional
-- conhecimento-de-deus
-- joao-15
+- permanecer
+- cristo
+- relacionamento
+- deus
+- vida
+- devocional
+- conhecimento
+- joao
 pregadores:
 - Pra. Magah
 params:

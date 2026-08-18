@@ -7,7 +7,8 @@ tags:
 - santidade
 - morte
 - arrependimento
-- dependencia-de-deus
+- dependencia
+- deus
 pregadores:
 - Pra. Fabiana Ferreira
 params:

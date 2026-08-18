@@ -4,10 +4,12 @@ date: '2025-09-01'
 draft: false
 tags:
 - unidade
-- romanos-15
+- romanos
 - aceitacao
-- vida-em-comunidade
-- fortes-e-fracos
+- vida
+- comunidade
+- fortes
+- fracos
 pregadores:
 - Pr. Lyncoln Reis
 params:

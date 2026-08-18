@@ -3,7 +3,8 @@ title: Erik Avilez | O Custo do Posicionamento (Daniel 1)
 date: '2024-08-18'
 draft: false
 tags:
-- proposito-de-vida
+- proposito
+- vida
 - identidade
 - sacrificio
 - posicionamento

@@ -4,10 +4,14 @@ date: '2026-04-05'
 draft: false
 tags:
 - ressurreicao
-- poder-sobrenatural
-- ajuntamento-eclesial
-- graca-operante
-- fe-pratica
+- poder
+- sobrenatural
+- ajuntamento
+- eclesial
+- graca
+- operante
+- fe
+- pratica
 pregadores:
 - Pr. Jucimar Ramos
 params:

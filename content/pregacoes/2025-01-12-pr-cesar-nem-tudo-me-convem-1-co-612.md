@@ -3,11 +3,19 @@ title: Pr. Cesar | Nem Tudo Me Convém (1 Co 6.12)
 date: '2025-01-12'
 draft: false
 tags:
-- nem-tudo-me-convem
-- raposinhas-de-cantares
-- fuga-da-aparencia-do-mal
-- santificacao-e-devocional
-- promessas-ao-vencedor
+- nem
+- tudo
+- me
+- convem
+- raposinhas
+- cantares
+- fuga
+- aparencia
+- mal
+- santificacao
+- devocional
+- promessas
+- vencedor
 pregadores:
 - Pr. César
 params:

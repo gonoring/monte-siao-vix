@@ -3,11 +3,14 @@ title: Pra. Magah | O Primeiro amor (Ap 2. 1-7)
 date: '2026-02-08'
 draft: false
 tags:
-- primeiro-amor
-- Jesus-centro
+- primeiro
+- amor
+- jesus
+- centro
 - arrependimento
 - adoracao
-- intimidade-com-Deus
+- intimidade
+- deus
 pregadores:
 - Pra. Magah
 params:

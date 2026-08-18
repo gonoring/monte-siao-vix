@@ -5,8 +5,10 @@ draft: false
 tags:
 - hanukkah
 - macabeus
-- milagres-de-israel
-- provisao-divina
+- milagres
+- israel
+- provisao
+- divina
 - consagracao
 pregadores:
 - Pra. Magah

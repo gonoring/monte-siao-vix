@@ -3,11 +3,16 @@ title: Pr. Geraldo Pereira | O Filho, o Órfão e o Perdido (Sl 89.19-26)
 date: '2024-12-20'
 draft: false
 tags:
-- identidade-em-cristo
-- espirito-de-orfandade
-- paternidade-de-deus
-- cura-divina
-- davi-e-mical
+- identidade
+- cristo
+- espirito
+- orfandade
+- paternidade
+- deus
+- cura
+- divina
+- davi
+- mical
 pregadores:
 - Pr. Geraldo Pereira
 params:

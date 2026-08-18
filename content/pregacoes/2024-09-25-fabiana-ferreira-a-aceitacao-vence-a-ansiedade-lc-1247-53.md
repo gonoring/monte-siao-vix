@@ -5,9 +5,11 @@ draft: false
 tags:
 - ansiedade
 - aceitacao
-- proposito-de-vida
+- proposito
+- vida
 - controle
-- confianca-em-deus
+- confianca
+- deus
 pregadores:
 - Pra. Fabiana Ferreira
 params:

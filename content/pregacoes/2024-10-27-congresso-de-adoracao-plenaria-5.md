@@ -4,10 +4,13 @@ date: '2024-10-27'
 draft: false
 tags:
 - adoracao
-- batalha-espiritual
-- regioes-celestiais
+- batalha
+- espiritual
+- regioes
+- celestiais
 - unidade
-- principados-potestades
+- principados
+- potestades
 pregadores:
 - Pr. Jucimar Ramos
 params:

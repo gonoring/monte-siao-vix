@@ -3,11 +3,16 @@ title: Pra. Magah | Principio da Unidade (Jo 17)
 date: '2026-05-04'
 draft: false
 tags:
-- unidade-corpo
-- oracao-sacerdotal
-- comunhao-ecclesial
-- relacionamentos-cristao
-- amadurecimento-espiritual
+- unidade
+- corpo
+- oracao
+- sacerdotal
+- comunhao
+- ecclesial
+- relacionamentos
+- cristao
+- amadurecimento
+- espiritual
 pregadores:
 - Pra. Magah
 params:

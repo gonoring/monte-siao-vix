@@ -5,8 +5,10 @@ draft: false
 tags:
 - zelo
 - santidade
-- presenca-de-deus
-- conduta-crista
+- presenca
+- deus
+- conduta
+- crista
 - escrituras
 pregadores:
 - Kiany Maia

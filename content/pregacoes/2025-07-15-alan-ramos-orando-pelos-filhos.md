@@ -4,7 +4,9 @@ date: '2025-07-15'
 draft: false
 tags:
 - perseveranca
-- oracao-pelos-filhos
+- oracao
+- pelos
+- filhos
 - fe
 - paternidade
 - expectativas

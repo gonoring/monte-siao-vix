@@ -3,11 +3,13 @@ title: Alan Ramos | Crescendo Espiritualmente (1Co 14.20, Ef 4.11-16)
 date: '2023-12-24'
 draft: false
 tags:
-- crescimento-espiritual
+- crescimento
+- espiritual
 - disciplina
 - jejum
-- cobertura-espiritual
-- maturidade-crista
+- cobertura
+- maturidade
+- crista
 pregadores:
 - Alan Ramos
 params:

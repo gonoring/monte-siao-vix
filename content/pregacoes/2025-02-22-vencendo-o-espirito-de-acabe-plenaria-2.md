@@ -4,7 +4,8 @@ date: '2025-02-22'
 draft: false
 tags:
 - lideranca
-- espirito-de-jezabel
+- espirito
+- jezabel
 - familia
 - independencia
 - submissao

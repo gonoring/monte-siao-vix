@@ -3,11 +3,14 @@ title: Pra. Magah | Vida Transformada (Lc 19.1-10)
 date: '2026-07-12'
 draft: false
 tags:
-- identidade-distorcida
+- identidade
+- distorcida
 - arrependimento
 - restitucao
-- intimidade-com-jesus
-- encontro-transformador
+- intimidade
+- jesus
+- encontro
+- transformador
 pregadores:
 - Pra. Magah
 params:

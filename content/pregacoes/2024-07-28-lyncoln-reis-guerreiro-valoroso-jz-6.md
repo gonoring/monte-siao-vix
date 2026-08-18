@@ -5,9 +5,11 @@ draft: false
 tags:
 - intercessao
 - gideao
-- tempo-de-deus
-- alinhamento-espiritual
-- guerra-espiritual
+- tempo
+- deus
+- alinhamento
+- espiritual
+- guerra
 pregadores:
 - Pr. Lyncoln Reis
 params:

@@ -4,10 +4,12 @@ date: '2025-03-23'
 draft: false
 tags:
 - pecado
-- contaminacao-comunitaria
+- contaminacao
+- comunitaria
 - arrependimento
 - obediencia
-- disciplina-eclesiastica
+- disciplina
+- eclesiastica
 pregadores:
 - Pr. Daniel Roepke
 params:

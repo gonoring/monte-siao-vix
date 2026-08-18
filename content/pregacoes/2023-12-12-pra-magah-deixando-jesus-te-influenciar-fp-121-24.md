@@ -3,9 +3,12 @@ title: Pra. Magah | Deixando Jesus te Influenciar (Fp 1.21-24)
 date: '2023-12-12'
 draft: false
 tags:
-- evangelho-triunfalista
-- identidade-em-cristo
-- missao-crista
+- evangelho
+- triunfalista
+- identidade
+- cristo
+- missao
+- crista
 - filipenses
 - eternidade
 pregadores:

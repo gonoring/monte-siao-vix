@@ -4,10 +4,13 @@ date: '2024-09-08'
 draft: false
 tags:
 - esperanca
-- isaias-40
-- descanso-em-deus
-- cuidado-integral
-- cansaco-e-renovacao
+- isaias
+- descanso
+- deus
+- cuidado
+- integral
+- cansaco
+- renovacao
 pregadores:
 - Pr. Lyncoln Reis
 params:

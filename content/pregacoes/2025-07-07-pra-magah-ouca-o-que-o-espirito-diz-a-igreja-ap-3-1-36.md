@@ -3,11 +3,16 @@ title: Pra. Magah | Ouça o que o Espírito diz à Igreja (Ap 3. 1-3,6)
 date: '2025-07-07'
 draft: false
 tags:
-- carta-a-sardes
-- vida-espiritual-autentica
-- motivacao-do-servico
-- alinhamento-espiritual
-- igreja-de-eventos
+- carta
+- sardes
+- vida
+- espiritual
+- autentica
+- motivacao
+- servico
+- alinhamento
+- igreja
+- eventos
 pregadores:
 - Pra. Magah
 params:

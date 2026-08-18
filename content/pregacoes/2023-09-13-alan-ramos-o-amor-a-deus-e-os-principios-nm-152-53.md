@@ -7,7 +7,8 @@ tags:
 - obediencia
 - santidade
 - zelo
-- dependencia-de-deus
+- dependencia
+- deus
 pregadores:
 - Alan Ramos
 params:

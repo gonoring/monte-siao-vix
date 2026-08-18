@@ -3,11 +3,15 @@ title: Pra. Magah | Infinitamente Mais (Ef 3.14-21)
 date: '2024-11-10'
 draft: false
 tags:
-- poder-do-espirito-santo
-- cura-interior
+- poder
+- espirito
+- santo
+- cura
+- interior
 - oracao
 - fe
-- intimidade-com-deus
+- intimidade
+- deus
 pregadores:
 - Pra. Magah
 params:

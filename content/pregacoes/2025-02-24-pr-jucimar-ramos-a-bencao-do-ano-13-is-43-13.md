@@ -3,11 +3,17 @@ title: Pr. Jucimar Ramos | A Benção do Ano 13 (Is 43. 13)
 date: '2025-02-24'
 draft: false
 tags:
-- bencao-do-numero-13
-- aniversario-da-igreja
-- intervencao-soberana-de-deus
-- tribo-de-levi
-- marcar-o-tempo
+- bencao
+- numero
+- aniversario
+- igreja
+- intervencao
+- soberana
+- deus
+- tribo
+- levi
+- marcar
+- tempo
 pregadores:
 - Pr. Jucimar Ramos
 params:

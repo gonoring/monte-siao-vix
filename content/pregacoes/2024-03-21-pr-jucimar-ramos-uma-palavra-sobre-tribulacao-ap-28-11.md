@@ -3,11 +3,15 @@ title: Pr. Jucimar Ramos | Uma Palavra Sobre Tribulação (Ap 2.8-11)
 date: '2024-03-21'
 draft: false
 tags:
-- carta-a-esmirna
-- tribulacao-e-consolo
-- culpar-o-diabo
-- coroa-da-vida
-- apocalipse-2
+- carta
+- esmirna
+- tribulacao
+- consolo
+- culpar
+- diabo
+- coroa
+- vida
+- apocalipse
 pregadores:
 - Pr. Jucimar Ramos
 params:

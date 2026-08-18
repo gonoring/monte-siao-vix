@@ -3,11 +3,16 @@ title: Pra. Magah | Festa das Trombetas 2023/2024 (Lv 23.23-25)
 date: '2024-01-01'
 draft: false
 tags:
-- festa-das-trombetas
-- segunda-vinda-de-cristo
+- festa
+- trombetas
+- segunda
+- vinda
+- cristo
 - autoavaliacao
-- vigilancia-espiritual
-- ano-novo
+- vigilancia
+- espiritual
+- ano
+- novo
 pregadores:
 - Pra. Magah
 params:

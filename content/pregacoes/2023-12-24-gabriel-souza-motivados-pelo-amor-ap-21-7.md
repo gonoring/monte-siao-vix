@@ -3,10 +3,13 @@ title: Gabriel Souza | Motivados pelo Amor (Ap 2.1-7)
 date: '2023-12-24'
 draft: false
 tags:
-- primeiro-amor
-- intimidade-com-deus
+- primeiro
+- amor
+- intimidade
+- deus
 - arrependimento
-- paixao-por-jesus
+- paixao
+- jesus
 - ativismo
 pregadores:
 - Gabriel Souza

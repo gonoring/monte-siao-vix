@@ -3,11 +3,17 @@ title: Pr. Jucimar Ramos | A Questão das Tarjas (Mt 7.1-3)
 date: '2024-07-18'
 draft: false
 tags:
-- nao-julgueis
-- taja-e-conclusao-precipitada
-- rico-e-lazaro
-- bom-samaritano
-- fe-sem-explicacao
+- nao
+- julgueis
+- taja
+- conclusao
+- precipitada
+- rico
+- lazaro
+- bom
+- samaritano
+- fe
+- explicacao
 pregadores:
 - Pr. Jucimar Ramos
 params:

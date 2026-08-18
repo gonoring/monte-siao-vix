@@ -5,8 +5,10 @@ date: '2025-12-02'
 draft: false
 tags:
 - identidade
-- fundacao-espiritual
-- feiticaria-gospel
+- fundacao
+- espiritual
+- feiticaria
+- gospel
 - rendicao
 - ansiedade
 pregadores:

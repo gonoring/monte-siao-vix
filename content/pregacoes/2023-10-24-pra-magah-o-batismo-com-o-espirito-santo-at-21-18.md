@@ -3,11 +3,17 @@ title: Pra. Magah | O Batismo com o Espírito Santo (At 2.1-18)
 date: '2023-10-24'
 draft: false
 tags:
-- batismo-no-espirito-santo
-- dom-de-linguas
-- atos-dos-apostolos
-- revestimento-de-poder
-- vida-espiritual
+- batismo
+- espirito
+- santo
+- dom
+- linguas
+- atos
+- apostolos
+- revestimento
+- poder
+- vida
+- espiritual
 pregadores:
 - Pra. Magah
 params:

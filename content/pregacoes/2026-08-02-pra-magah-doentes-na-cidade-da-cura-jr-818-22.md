@@ -3,11 +3,15 @@ title: Pra. Magah | Doentes na Cidade da Cura (Jr 8.18-22)
 date: '2026-08-02'
 draft: false
 tags:
-- cura-espiritual
-- responsabilidade-pessoal
-- comunidade-terapeutica
+- cura
+- espiritual
+- responsabilidade
+- pessoal
+- comunidade
+- terapeutica
 - arrependimento
-- recursos-divinos
+- recursos
+- divinos
 pregadores:
 - Pra. Magah
 params:

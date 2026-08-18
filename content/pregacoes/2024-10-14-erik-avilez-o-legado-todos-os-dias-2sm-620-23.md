@@ -4,7 +4,8 @@ date: '2024-10-14'
 draft: false
 tags:
 - legado
-- independencia-espiritual
+- independencia
+- espiritual
 - disciplina
 - individualismo
 - imediatismo

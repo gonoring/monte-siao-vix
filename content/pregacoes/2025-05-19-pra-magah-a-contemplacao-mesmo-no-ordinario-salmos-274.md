@@ -5,9 +5,12 @@ draft: false
 tags:
 - contemplacao
 - davi
-- transformacao-espiritual
-- vida-devocional
-- adoracao-continua
+- transformacao
+- espiritual
+- vida
+- devocional
+- adoracao
+- continua
 pregadores:
 - Pra. Magah
 params:

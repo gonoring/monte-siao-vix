@@ -3,11 +3,16 @@ title: 'Pra. Magah | Yom Kippur: Buscando o Perdão de Deus (Hb 9.11-12)'
 date: '2023-10-24'
 draft: false
 tags:
-- yom-kippur
-- sacrificio-de-cristo
-- arrependimento-tchuva
-- graca-e-perdao
-- parabola-do-publicano
+- yom
+- kippur
+- sacrificio
+- cristo
+- arrependimento
+- tchuva
+- graca
+- perdao
+- parabola
+- publicano
 pregadores:
 - Pra. Magah
 params:

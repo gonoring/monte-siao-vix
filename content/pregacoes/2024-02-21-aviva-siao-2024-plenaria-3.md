@@ -5,7 +5,8 @@ draft: false
 tags:
 - escatologia
 - teologia
-- primeiro-amor
+- primeiro
+- amor
 - graca
 - discernimento
 pregadores:

@@ -6,8 +6,10 @@ tags:
 - aceitacao
 - resistencia
 - discernimento
-- sofrimento-desnecessario
-- conducao-divina
+- sofrimento
+- desnecessario
+- conducao
+- divina
 pregadores:
 - Erik Avilez
 params:

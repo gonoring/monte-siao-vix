@@ -6,8 +6,9 @@ tags:
 - aceitacao
 - fe
 - graca
-- vida-leve
-- trono-da-graca
+- vida
+- leve
+- trono
 pregadores:
 - Luzia Rocha
 params:

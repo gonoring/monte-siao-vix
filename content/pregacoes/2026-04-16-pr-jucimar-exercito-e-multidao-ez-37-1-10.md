@@ -3,11 +3,16 @@ title: Pr. Jucimar Ramos | Exercito e Multidão (Ez 37. 1-10)
 date: '2026-04-16'
 draft: false
 tags:
-- missao-divina
-- proposito-de-vida
-- renovacao-espiritual
-- identidade-soldado
-- abandono-mundanidade
+- missao
+- divina
+- proposito
+- vida
+- renovacao
+- espiritual
+- identidade
+- soldado
+- abandono
+- mundanidade
 pregadores:
 - Pr. Jucimar Ramos
 params:

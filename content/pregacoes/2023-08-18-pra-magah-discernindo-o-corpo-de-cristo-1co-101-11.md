@@ -3,11 +3,13 @@ title: Pra. Magah | Discernindo o Corpo de Cristo (1Co 10.1-11)
 date: '2023-08-18'
 draft: false
 tags:
-- santa-ceia
-- atos-profeticos
+- santa
+- ceia
+- atos
+- profeticos
 - autoavaliacao
 - arrependimento
-- 1-corintios-10
+- corintios
 pregadores:
 - Pra. Magah
 params:

@@ -3,11 +3,16 @@ title: Pra. Magah | Uma Fé que Não Desanima (2Co 4.16-18)
 date: '2024-07-08'
 draft: false
 tags:
-- fe-que-declara
-- sofrimento-e-eternidade
-- cura-pela-fe
-- olhos-fixos-em-jesus
-- exercicio-da-fe
+- fe
+- declara
+- sofrimento
+- eternidade
+- cura
+- pela
+- olhos
+- fixos
+- jesus
+- exercicio
 pregadores:
 - Pra. Magah
 params:

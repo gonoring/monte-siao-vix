@@ -3,11 +3,15 @@ title: Pr. Jucimar Ramos | Orando por Israel (Rm 9-11)
 date: '2023-11-06'
 draft: false
 tags:
-- guerra-espiritual
-- teologia-de-israel
-- romanos-9-a-11
-- oliveira-de-paulo
-- dispensacionalismo-apostolico
+- guerra
+- espiritual
+- teologia
+- israel
+- romanos
+- oliveira
+- paulo
+- dispensacionalismo
+- apostolico
 pregadores:
 - Pr. Jucimar Ramos
 params:

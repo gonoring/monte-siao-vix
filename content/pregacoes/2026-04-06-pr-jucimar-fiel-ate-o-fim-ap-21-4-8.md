@@ -6,7 +6,8 @@ tags:
 - covardia
 - alianca
 - fidelidade
-- relacionamento-com-deus
+- relacionamento
+- deus
 - perseveranca
 pregadores:
 - Pr. Jucimar Ramos

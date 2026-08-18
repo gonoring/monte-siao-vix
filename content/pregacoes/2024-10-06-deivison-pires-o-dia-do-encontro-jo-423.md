@@ -4,10 +4,13 @@ date: '2024-10-06'
 draft: false
 tags:
 - adoracao
-- intimidade-com-deus
-- agua-viva
+- intimidade
+- deus
+- agua
+- viva
 - arrependimento
-- mulher-samaritana
+- mulher
+- samaritana
 pregadores:
 - Deivison Pires
 params:

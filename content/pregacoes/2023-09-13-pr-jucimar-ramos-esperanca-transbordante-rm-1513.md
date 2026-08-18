@@ -3,11 +3,18 @@ title: Pr. Jucimar Ramos | Esperança Transbordante (Rm 15.13)
 date: '2023-09-13'
 draft: false
 tags:
-- esperanca-transbordante
-- sacerdocio-do-lar
-- confianca-como-decisao
-- fe-sem-ver
-- alegria-e-paz-biblicas
+- esperanca
+- transbordante
+- sacerdocio
+- lar
+- confianca
+- como
+- decisao
+- fe
+- ver
+- alegria
+- paz
+- biblicas
 pregadores:
 - Pr. Jucimar Ramos
 params:

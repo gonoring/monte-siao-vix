@@ -3,11 +3,19 @@ title: Pr. Jucimar Ramos | O Poder do Batismo (Rm 6.3-14)
 date: '2024-12-31'
 draft: false
 tags:
-- batismo-cristao
-- simbolismo-biblico
-- morte-e-ressurreicao-de-cristo
-- poder-do-nome-de-jesus
-- viver-pelo-espirito
+- batismo
+- cristao
+- simbolismo
+- biblico
+- morte
+- ressurreicao
+- cristo
+- poder
+- nome
+- jesus
+- viver
+- pelo
+- espirito
 pregadores:
 - Pr. Jucimar Ramos
 params:

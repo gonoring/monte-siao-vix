@@ -3,11 +3,17 @@ title: Pr. Jucimar Ramos | Uma Palavra Sobre o Batismo (Rm 6.7-8)
 date: '2024-01-01'
 draft: false
 tags:
-- batismo-simbolico
-- linguagem-dos-simbolos
-- poder-da-morte-e-ressurreicao
-- cancelamento-de-dividas-espirituais
-- uncao-para-o-batismo
+- batismo
+- simbolico
+- linguagem
+- simbolos
+- poder
+- morte
+- ressurreicao
+- cancelamento
+- dividas
+- espirituais
+- uncao
 pregadores:
 - Pr. Jucimar Ramos
 params:

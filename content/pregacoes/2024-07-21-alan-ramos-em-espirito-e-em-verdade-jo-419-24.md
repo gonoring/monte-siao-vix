@@ -6,8 +6,10 @@ tags:
 - adoracao
 - verdade
 - mentoria
-- joio-e-trigo
-- niveis-espirituais
+- joio
+- trigo
+- niveis
+- espirituais
 pregadores:
 - Alan Ramos
 params:

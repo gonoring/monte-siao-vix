@@ -3,11 +3,16 @@ title: Pr. Téo Freitas | Não Despreze os Pequenos Começos (Zc 4.6-10)
 date: '2024-10-06'
 draft: false
 tags:
-- pequenos-comecos
-- lei-da-semeadura
-- crescimento-processual
-- fidelidade-no-pouco
-- discipulado-e-obediencia
+- pequenos
+- comecos
+- lei
+- semeadura
+- crescimento
+- processual
+- fidelidade
+- pouco
+- discipulado
+- obediencia
 pregadores:
 - Pr. Téo Freitas
 params:

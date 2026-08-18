@@ -3,11 +3,20 @@ title: Pr. Jucimar Ramos | Cantando Até a Intervenção Chegar (Sl 40.16-17)
 date: '2024-08-16'
 draft: false
 tags:
-- adoracao-em-meio-a-crise
-- salmo-40
-- paulo-e-silas-na-prisao
-- davi-fugindo-de-absalao
-- louvor-como-arma-espiritual
+- adoracao
+- meio
+- crise
+- salmo
+- paulo
+- silas
+- prisao
+- davi
+- fugindo
+- absalao
+- louvor
+- como
+- arma
+- espiritual
 pregadores:
 - Pr. Jucimar Ramos
 params:

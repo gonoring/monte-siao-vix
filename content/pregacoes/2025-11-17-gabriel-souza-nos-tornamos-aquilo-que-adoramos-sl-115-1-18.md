@@ -6,8 +6,9 @@ tags:
 - idolatria
 - adoracao
 - honra
-- cegueira-espiritual
-- salmo-115
+- cegueira
+- espiritual
+- salmo
 pregadores:
 - Gabriel Souza
 params:

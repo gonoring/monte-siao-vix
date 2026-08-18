@@ -4,10 +4,13 @@ date: '2025-05-05'
 draft: false
 tags:
 - contemplacao
-- fascinacao-por-jesus
-- transformacao-espiritual
+- fascinacao
+- jesus
+- transformacao
+- espiritual
 - oracao
-- vida-devocional
+- vida
+- devocional
 pregadores:
 - Pra. Magah
 params:

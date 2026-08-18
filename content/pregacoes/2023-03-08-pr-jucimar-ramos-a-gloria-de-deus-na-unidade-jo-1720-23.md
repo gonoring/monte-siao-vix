@@ -4,7 +4,8 @@ date: '2023-03-08'
 draft: false
 tags:
 - unidade
-- gloria-de-deus
+- gloria
+- deus
 - perdao
 - videira
 - aflicoes

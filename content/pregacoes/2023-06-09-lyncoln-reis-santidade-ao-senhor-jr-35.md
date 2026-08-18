@@ -5,7 +5,8 @@ draft: false
 tags:
 - santidade
 - integridade
-- regra-de-cerca
+- regra
+- cerca
 - zelo
 - condicionamento
 pregadores:

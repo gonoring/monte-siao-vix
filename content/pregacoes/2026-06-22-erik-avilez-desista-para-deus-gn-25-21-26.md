@@ -4,7 +4,8 @@ date: '2026-06-22'
 draft: false
 tags:
 - jacosidade
-- independencia-espiritual
+- independencia
+- espiritual
 - submissao
 - controle
 - transformacao

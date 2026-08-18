@@ -4,10 +4,12 @@ date: '2024-02-06'
 draft: false
 tags:
 - sofrimento
-- romanos-8-28
-- proposito-de-deus
+- romanos
+- proposito
+- deus
 - confianca
-- disciplina-divina
+- disciplina
+- divina
 pregadores:
 - Pr. Lyncoln Reis
 params:

@@ -3,11 +3,17 @@ title: Pra. Magah | Para Além da Cultura Imediatista (Gn 18.18-19)
 date: '2023-12-12'
 draft: false
 tags:
-- legado-multigeracional
-- proposito-e-plano-de-deus
-- educacao-dos-filhos
-- cultura-imediatista
-- oracao-pelos-filhos
+- legado
+- multigeracional
+- proposito
+- plano
+- deus
+- educacao
+- filhos
+- cultura
+- imediatista
+- oracao
+- pelos
 pregadores:
 - Pra. Magah
 params:

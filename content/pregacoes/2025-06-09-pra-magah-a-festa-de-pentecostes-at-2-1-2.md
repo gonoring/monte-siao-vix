@@ -5,9 +5,12 @@ draft: false
 tags:
 - pentecostes
 - perseveranca
-- alianca-com-deus
-- vida-ordinaria
-- espirito-santo
+- alianca
+- deus
+- vida
+- ordinaria
+- espirito
+- santo
 pregadores:
 - Pra. Magah
 params:

@@ -3,11 +3,14 @@ title: Pra. Magah | Restaurando a Intimidade com Deus (Is 29.13)
 date: '2026-03-01'
 draft: false
 tags:
-- intimidade-com-Deus
-- hipocrisia-espiritual
-- adoracao-autentica
-- relacionamento-com-Deus
-- vicio-espiritual
+- intimidade
+- deus
+- hipocrisia
+- espiritual
+- adoracao
+- autentica
+- relacionamento
+- vicio
 pregadores:
 - Pra. Magah
 params:

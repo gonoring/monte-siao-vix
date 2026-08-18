@@ -3,11 +3,15 @@ title: Sayonara Ribeiro | O Deus a quem Servimos pode Livrar-nos (Dn 3. 16-18)
 date: '2026-05-31'
 draft: false
 tags:
-- perseguicao-religiosa
+- perseguicao
+- religiosa
 - fidelidade
-- soberania-divina
+- soberania
+- divina
 - obediencia
-- cristo-acima-circunstancias
+- cristo
+- acima
+- circunstancias
 pregadores:
 - Sayonara Ribeiro
 params:

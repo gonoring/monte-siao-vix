@@ -4,10 +4,12 @@ date: '2026-06-28'
 draft: false
 tags:
 - quebrantamento
-- sensibilidade-espiritual
+- sensibilidade
+- espiritual
 - humildade
-- lázaro-betânia
-- lágrimas
+- lazaro
+- betania
+- lagrimas
 pregadores:
 - Gabriel Souza
 params:

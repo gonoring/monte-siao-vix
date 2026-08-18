@@ -3,11 +3,12 @@ title: Pr. Lyncoln Reis | Orem e Vigiem (Mc 14. 32-42)
 date: '2025-07-15'
 draft: false
 tags:
-- vigilancia-espiritual
+- vigilancia
+- espiritual
 - oracao
 - tentacao
 - getsemani
-- batalha-espiritual
+- batalha
 pregadores:
 - Pr. Lyncoln Reis
 params:

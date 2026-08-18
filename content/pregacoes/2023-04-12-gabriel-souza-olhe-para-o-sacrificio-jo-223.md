@@ -5,8 +5,10 @@ draft: false
 tags:
 - pascoa
 - arrependimento
-- nascer-de-novo
-- amor-a-deus
+- nascer
+- novo
+- amor
+- deus
 - nicodemos
 pregadores:
 - Gabriel Souza

@@ -7,7 +7,8 @@ tags:
 - sofrimento
 - prosperidade
 - jose
-- chamado-divino
+- chamado
+- divino
 pregadores:
 - Gabriel Souza
 params:

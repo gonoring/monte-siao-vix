@@ -3,11 +3,16 @@ title: Pr. Lyncoln Reis | Shalom, A paz de Deus (Gn 28. 10-22)
 date: '2026-06-15'
 draft: false
 tags:
-- aliança-com-deus
-- shalom-prosperidade
-- fé-prática
-- entrega-dízimo
-- confiança-divina
+- alianca
+- deus
+- shalom
+- prosperidade
+- fe
+- pratica
+- entrega
+- dizimo
+- confianca
+- divina
 pregadores:
 - Pr. Lyncoln Reis
 params:

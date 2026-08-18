@@ -3,11 +3,15 @@ title: Pr. Jucimar Ramos | Discipulado de Finanças (Pr 10. 22)
 date: '2026-02-27'
 draft: false
 tags:
-- benção-divina
-- finanças
-- princípio-do-tempo
-- riqueza-espiritual
-- identidade-cristã
+- bencao
+- divina
+- financas
+- principio
+- tempo
+- riqueza
+- espiritual
+- identidade
+- crista
 pregadores:
 - Pr. Jucimar Ramos
 params:

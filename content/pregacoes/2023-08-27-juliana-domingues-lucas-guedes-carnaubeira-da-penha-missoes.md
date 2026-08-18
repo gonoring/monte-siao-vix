@@ -5,8 +5,10 @@ draft: false
 tags:
 - missoes
 - discipulado
-- carnaubeira-da-penha
-- fundamentos-do-evangelho
+- carnaubeira
+- penha
+- fundamentos
+- evangelho
 - obediencia
 pregadores:
 - Juliana Domingues e Lucas Guedes

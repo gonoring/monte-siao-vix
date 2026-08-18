@@ -3,11 +3,14 @@ title: Alan Ramos | Preparando um Lugar (Ef 2. 8-9)
 date: '2026-06-08'
 draft: false
 tags:
-- rotina-espiritual
-- vocacao-crista
+- rotina
+- espiritual
+- vocacao
+- crista
 - sabedoria
 - radicalidade
-- comunhao-com-deus
+- comunhao
+- deus
 pregadores:
 - Alan Ramos
 params:

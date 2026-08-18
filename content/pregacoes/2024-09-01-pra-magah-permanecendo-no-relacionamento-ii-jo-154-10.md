@@ -3,11 +3,14 @@ title: Pra. Magah | Permanecendo no Relacionamento II (Jo 15.4-10)
 date: '2024-09-01'
 draft: false
 tags:
-- permanecer-em-cristo
-- fruto-do-espirito
-- parabola-da-videira
-- identidade-em-cristo
-- joao-15
+- permanecer
+- cristo
+- fruto
+- espirito
+- parabola
+- videira
+- identidade
+- joao
 pregadores:
 - Pra. Magah
 params:

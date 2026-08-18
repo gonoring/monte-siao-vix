@@ -3,11 +3,16 @@ title: Pra. Magah | Amor que Excede o Entendimento (Ef 3.14-19)
 date: '2023-12-24'
 draft: false
 tags:
-- amor-de-deus
-- atributos-de-deus
-- testemunho-pessoal
-- escravo-da-orelha-furada
-- santa-ceia
+- amor
+- deus
+- atributos
+- testemunho
+- pessoal
+- escravo
+- orelha
+- furada
+- santa
+- ceia
 pregadores:
 - Pra. Magah
 params:

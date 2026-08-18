@@ -3,11 +3,16 @@ title: Pr. Jucimar Ramos | Beba da Água de Deus (Jo 7.2, 10-11, 37-41)
 date: '2023-10-24'
 draft: false
 tags:
-- festa-dos-tabernaculos
-- aguas-vivas
-- gratidao-e-fe
-- sustento-no-deserto
-- promessa-da-chuva
+- festa
+- tabernaculos
+- aguas
+- vivas
+- gratidao
+- fe
+- sustento
+- deserto
+- promessa
+- chuva
 pregadores:
 - Pr. Jucimar Ramos
 params:

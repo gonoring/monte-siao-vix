@@ -3,11 +3,16 @@ title: Pr. Jucimar Ramos | Só Ele Cura os Quebrantados de Coração (Sl 147.1-7
 date: '2024-08-04'
 draft: false
 tags:
-- cura-interior
-- quebrantamento-de-coracao
-- poder-da-mente
-- fe-que-toca-jesus
-- salmo-147
+- cura
+- interior
+- quebrantamento
+- coracao
+- poder
+- mente
+- fe
+- toca
+- jesus
+- salmo
 pregadores:
 - Pr. Jucimar Ramos
 params:

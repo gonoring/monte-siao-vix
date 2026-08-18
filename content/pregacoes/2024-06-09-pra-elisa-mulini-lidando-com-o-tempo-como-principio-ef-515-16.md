@@ -3,11 +3,14 @@ title: Pra. Elisa Mulini | Lidando com o Tempo como Princípio (Ef 5.15-16)
 date: '2024-06-09'
 draft: false
 tags:
-- tempo-como-principio
+- tempo
+- como
+- principio
 - sabedoria
 - proposito
 - planejamento
-- imitacao-de-jesus
+- imitacao
+- jesus
 pregadores:
 - Pra. Elisa Mulini
 params:

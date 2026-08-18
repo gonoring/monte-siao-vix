@@ -3,8 +3,10 @@ title: Gabriel Souza | Pessoas Férteis e Frutíferas (Mt 13. 1-23)
 date: '2025-07-22'
 draft: false
 tags:
-- parabola-do-semeador
-- terrenos-do-coracao
+- parabola
+- semeador
+- terrenos
+- coracao
 - frutificacao
 - fertilidade
 - disciplina

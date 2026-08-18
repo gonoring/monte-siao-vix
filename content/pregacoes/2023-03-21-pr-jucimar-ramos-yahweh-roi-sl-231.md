@@ -3,11 +3,13 @@ title: Pr. Jucimar Ramos | Yahweh Roí (Sl 23.1)
 date: '2023-03-21'
 draft: false
 tags:
-- nomes-de-deus
-- dependencia-de-deus
+- nomes
+- deus
+- dependencia
 - fragilidade
 - oracao
-- identidade-de-ovelha
+- identidade
+- ovelha
 pregadores:
 - Pr. Jucimar Ramos
 params:

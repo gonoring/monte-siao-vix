@@ -3,11 +3,17 @@ title: Pr. Jucimar | Homens Lutam (Ne 4.14)
 date: '2025-07-31'
 draft: false
 tags:
-- vocacao-masculina
-- lutar-e-confiar-em-deus
-- protecao-e-alianca
-- estrutura-e-legado
-- virilidade-crista
+- vocacao
+- masculina
+- lutar
+- confiar
+- deus
+- protecao
+- alianca
+- estrutura
+- legado
+- virilidade
+- crista
 pregadores:
 - Pr. Jucimar Ramos
 params:

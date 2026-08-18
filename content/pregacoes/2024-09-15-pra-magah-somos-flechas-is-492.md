@@ -3,11 +3,15 @@ title: Pra. Magah | Somos Flechas (Is 49.2)
 date: '2024-09-15'
 draft: false
 tags:
-- filhos-como-flechas
-- lancamento-no-proposito
-- disciplina-com-amor
-- filhos-espirituais
-- guardiao-do-proposito
+- filhos
+- como
+- flechas
+- lancamento
+- proposito
+- disciplina
+- amor
+- espirituais
+- guardiao
 pregadores:
 - Pra. Magah
 params:

@@ -4,8 +4,10 @@ date: '2025-02-23'
 draft: false
 tags:
 - lideranca
-- identidade-eclesiastica
-- mandamentos-do-lider
+- identidade
+- eclesiastica
+- mandamentos
+- lider
 - uncao
 - estrategia
 pregadores:

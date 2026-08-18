@@ -6,7 +6,8 @@ tags:
 - sofrimento
 - perseveranca
 - arrependimento
-- igreja-perseguida
+- igreja
+- perseguida
 - martirio
 pregadores:
 - Gabriel Souza

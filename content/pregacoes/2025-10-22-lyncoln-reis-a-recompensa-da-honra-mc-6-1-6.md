@@ -7,7 +7,8 @@ tags:
 - recompensa
 - obediencia
 - primicias
-- autoridade-espiritual
+- autoridade
+- espiritual
 pregadores:
 - Pr. Lyncoln Reis
 params:

@@ -3,11 +3,18 @@ title: Pr. Jucimar Ramos | É Chegado o Reino de Deus (Mt 12.28)
 date: '2024-02-25'
 draft: false
 tags:
-- numero-doze-na-biblia
-- reino-de-deus-invisivel
-- expulsar-demonios
-- aniversario-da-igreja
-- autoridade-espiritual
+- numero
+- doze
+- biblia
+- reino
+- deus
+- invisivel
+- expulsar
+- demonios
+- aniversario
+- igreja
+- autoridade
+- espiritual
 pregadores:
 - Pr. Jucimar Ramos
 params:

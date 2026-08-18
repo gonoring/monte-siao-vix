@@ -3,11 +3,15 @@ title: Pr. Jucimar Ramos | Gratidão em Tempos de Peso (Mt 25.29-30, 1Co 10.10-1
 date: '2023-12-12'
 draft: false
 tags:
-- gratidao-vs-murmuracao
-- parabola-dos-talentos
-- anjo-destruidor
-- jejum-de-murmuracao
-- salmo-de-guerra
+- gratidao
+- murmuracao
+- parabola
+- talentos
+- anjo
+- destruidor
+- jejum
+- salmo
+- guerra
 pregadores:
 - Pr. Jucimar Ramos
 params:

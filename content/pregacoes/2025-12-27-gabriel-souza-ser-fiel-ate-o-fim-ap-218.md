@@ -4,10 +4,13 @@ date: '2025-12-27'
 draft: false
 tags:
 - fidelidade
-- aliancas-erradas
+- aliancas
+- erradas
 - jezabel
-- discernimento-espiritual
-- remanescente-fiel
+- discernimento
+- espiritual
+- remanescente
+- fiel
 pregadores:
 - Gabriel Souza
 params:

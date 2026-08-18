@@ -4,9 +4,11 @@ date: '2024-02-21'
 draft: false
 tags:
 - escatologia
-- sinais-dos-tempos
+- sinais
+- tempos
 - anticristo
-- israel-profetico
+- israel
+- profetico
 - esperanca
 pregadores:
 - Pr. Jucimar Ramos

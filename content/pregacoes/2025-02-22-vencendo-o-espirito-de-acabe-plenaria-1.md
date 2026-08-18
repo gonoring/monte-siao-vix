@@ -3,11 +3,16 @@ title: Vencendo o Espírito de Acabe | Plenária 1
 date: '2025-02-22'
 draft: false
 tags:
-- espirito-de-jezabel
-- espirito-de-acabe
-- divisao-na-igreja
-- profetas-e-mestres
-- guerra-espiritual-eclesial
+- espirito
+- jezabel
+- acabe
+- divisao
+- igreja
+- profetas
+- mestres
+- guerra
+- espiritual
+- eclesial
 pregadores:
 - Pr. Jucimar Ramos
 params:

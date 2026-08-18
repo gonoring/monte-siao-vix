@@ -3,10 +3,15 @@ title: Tio Cesinha | A Casa Está Preparada
 date: '2026-07-19'
 draft: false
 tags:
-- preparo-divino
-- missao-evangelica
-- presenca-de-deus
-- vida-cristao-pratica
+- preparo
+- divino
+- missao
+- evangelica
+- presenca
+- deus
+- vida
+- cristao
+- pratica
 pregadores:
 - Tio Cesinha
 params:

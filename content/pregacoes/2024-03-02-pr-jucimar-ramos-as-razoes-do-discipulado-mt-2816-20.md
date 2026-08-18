@@ -4,10 +4,18 @@ date: '2024-03-02'
 draft: false
 tags:
 - discipulado
-- evangelho-e-fe-pelo-ouvir
-- santidade-no-novo-testamento
-- processo-espiritual
-- ide-e-fazei-discipulos
+- evangelho
+- fe
+- pelo
+- ouvir
+- santidade
+- novo
+- testamento
+- processo
+- espiritual
+- ide
+- fazei
+- discipulos
 pregadores:
 - Pr. Jucimar Ramos
 params:

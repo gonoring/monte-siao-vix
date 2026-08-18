@@ -3,11 +3,17 @@ title: Pr. Jucimar Ramos | Ele Foi Digno por Você (Ex 12.21-28)
 date: '2024-03-29'
 draft: false
 tags:
-- pascoa-e-cordeiro-pascal
-- cristo-cordeiro-de-deus
-- graca-sem-merito
-- sangue-na-porta
-- constrangimento-diante-da-graca
+- pascoa
+- cordeiro
+- pascal
+- cristo
+- deus
+- graca
+- merito
+- sangue
+- porta
+- constrangimento
+- diante
 pregadores:
 - Pr. Jucimar Ramos
 params:

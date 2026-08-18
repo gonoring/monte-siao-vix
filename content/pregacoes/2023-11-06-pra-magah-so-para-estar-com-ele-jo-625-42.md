@@ -3,11 +3,17 @@ title: Pra. Magah | Só Para Estar com Ele (Jo 6.25-42)
 date: '2023-11-06'
 draft: false
 tags:
-- motivacao-da-fe
-- presenca-de-deus
-- busca-interesseira
-- intimidade-nao-utilitaria
-- alinhamento-espiritual
+- motivacao
+- fe
+- presenca
+- deus
+- busca
+- interesseira
+- intimidade
+- nao
+- utilitaria
+- alinhamento
+- espiritual
 pregadores:
 - Pra. Magah
 params:

@@ -3,11 +3,15 @@ title: Pra. Magah | Alinhando o Propósito com Deus (2 Co 4.7-11)
 date: '2024-11-04'
 draft: false
 tags:
-- proposito-de-deus
-- jose-do-egito
-- vasos-de-barro
+- proposito
+- deus
+- jose
+- egito
+- vasos
+- barro
 - eternidade
-- desalinhamento-espiritual
+- desalinhamento
+- espiritual
 pregadores:
 - Pra. Magah
 params:

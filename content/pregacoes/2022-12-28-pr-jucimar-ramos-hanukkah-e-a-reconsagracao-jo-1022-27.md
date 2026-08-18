@@ -6,8 +6,10 @@ tags:
 - hanukkah
 - reconsagracao
 - purificacao
-- simbolismo-biblico
-- arrependimento-continuo
+- simbolismo
+- biblico
+- arrependimento
+- continuo
 pregadores:
 - Pr. Jucimar Ramos
 params:

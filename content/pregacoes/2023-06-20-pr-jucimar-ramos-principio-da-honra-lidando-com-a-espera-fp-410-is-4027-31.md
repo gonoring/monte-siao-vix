@@ -7,7 +7,8 @@ tags:
 - semeadura
 - espera
 - murmuracao
-- principio-do-tempo
+- principio
+- tempo
 pregadores:
 - Pr. Jucimar Ramos
 params:

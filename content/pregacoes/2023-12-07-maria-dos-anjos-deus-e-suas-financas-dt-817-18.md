@@ -3,11 +3,15 @@ title: Maria dos Anjos | Deus e suas finanças (Dt 8.17-18)
 date: '2023-12-07'
 draft: false
 tags:
-- financas-biblicas
-- principio-da-dependencia
-- legalidades-espirituais
-- disciplado-de-financas
-- prosperidade-e-obediencia
+- financas
+- biblicas
+- principio
+- dependencia
+- legalidades
+- espirituais
+- disciplado
+- prosperidade
+- obediencia
 pregadores:
 - Maria dos Anjos
 params:

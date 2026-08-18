@@ -6,8 +6,10 @@ tags:
 - avivamento
 - arrependimento
 - unidade
-- paixao-por-deus
-- disciplina-espiritual
+- paixao
+- deus
+- disciplina
+- espiritual
 pregadores:
 - Pra. Magah
 params:

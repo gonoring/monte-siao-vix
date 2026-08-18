@@ -3,9 +3,12 @@ title: Edinho Missão | Basta Apenas uma Palavra (Gn 1 . 1-6)
 date: '2026-04-26'
 draft: false
 tags:
-- palavra-criadora
-- identidade-em-cristo
-- poder-divino
+- palavra
+- criadora
+- identidade
+- cristo
+- poder
+- divino
 - milagre
 pregadores:
 - Edinho Missão

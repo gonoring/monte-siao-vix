@@ -3,10 +3,12 @@ title: Erik Avilez | Jesus Volta em 30 Minutos (Ap 22.10-17)
 date: '2024-03-31'
 draft: false
 tags:
-- segunda-vinda
+- segunda
+- vinda
 - santificacao
 - recompensa
-- noiva-de-cristo
+- noiva
+- cristo
 - arrebatamento
 pregadores:
 - Erik Avilez

@@ -3,11 +3,17 @@ title: Pr. Jucimar Ramos | Ele Venceu o Mundo (Mc 16.14-18)
 date: '2023-10-24'
 draft: false
 tags:
-- sinais-de-marcos-16
-- expulsar-demonios
-- falar-em-linguas
-- mundo-tereis-afliçoes
-- ferramentas-espirituais
+- sinais
+- marcos
+- expulsar
+- demonios
+- falar
+- linguas
+- mundo
+- tereis
+- aflicoes
+- ferramentas
+- espirituais
 pregadores:
 - Pr. Jucimar Ramos
 params:

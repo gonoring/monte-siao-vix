@@ -4,8 +4,10 @@ date: '2024-10-20'
 draft: false
 tags:
 - chamado
-- dons-espirituais
-- grande-comissao
+- dons
+- espirituais
+- grande
+- comissao
 - servico
 - identidade
 pregadores:

@@ -3,11 +3,14 @@ title: Luciana Contti | Orando Pelos Filhos
 date: '2025-07-15'
 draft: false
 tags:
-- oracao-pelos-filhos
-- parabola-do-semeador
+- oracao
+- pelos
+- filhos
+- parabola
+- semeador
 - paternidade
 - perseveranca
-- maes-em-oracao
+- maes
 pregadores:
 - Luciana Contti
 params:

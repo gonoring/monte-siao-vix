@@ -6,7 +6,8 @@ tags:
 - amargura
 - ressentimento
 - perdao
-- cura-emocional
+- cura
+- emocional
 - autossabotagem
 pregadores:
 - Pr. Lyncoln Reis

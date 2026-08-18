@@ -4,9 +4,11 @@ date: '2025-04-21'
 draft: false
 tags:
 - pascoa
-- cordeiro-de-deus
+- cordeiro
+- deus
 - nicodemos
-- novo-nascimento
+- novo
+- nascimento
 - arrependimento
 pregadores:
 - Gabriel Souza

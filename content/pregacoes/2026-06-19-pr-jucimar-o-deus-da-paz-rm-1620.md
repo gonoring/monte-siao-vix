@@ -3,11 +3,16 @@ title: Pr. Jucimar Ramos | O Deus da Paz (Rm 16.20)
 date: '2026-06-19'
 draft: false
 tags:
-- paz-interior
-- batalha-espiritual
-- fe-em-escassez
-- principados-potestades
-- identidade-deus
+- paz
+- interior
+- batalha
+- espiritual
+- fe
+- escassez
+- principados
+- potestades
+- identidade
+- deus
 pregadores:
 - Pr. Jucimar Ramos
 params:

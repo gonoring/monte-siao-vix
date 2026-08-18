@@ -4,7 +4,8 @@ date: '2023-04-12'
 draft: false
 tags:
 - pascoa
-- identidade-em-cristo
+- identidade
+- cristo
 - arrependimento
 - graca
 - fermento

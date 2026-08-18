@@ -5,9 +5,12 @@ draft: false
 tags:
 - adoracao
 - rendicao
-- mulher-samaritana
-- musica-e-culto
-- quebra-de-sistemas
+- mulher
+- samaritana
+- musica
+- culto
+- quebra
+- sistemas
 pregadores:
 - Alan Ramos
 params:

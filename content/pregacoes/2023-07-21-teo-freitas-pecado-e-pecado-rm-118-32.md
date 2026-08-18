@@ -5,7 +5,8 @@ draft: false
 tags:
 - pecado
 - arrependimento
-- relativismo-moral
+- relativismo
+- moral
 - tolerancia
 - santidade
 pregadores:

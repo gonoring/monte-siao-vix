@@ -3,12 +3,18 @@ title: Pra Magah | Discernindo o Tempo em que Vivemos
 date: '2025-12-29'
 draft: false
 tags:
-- plenitude-dos-tempos
-- profecia-biblica
-- decadencia-moral
-- imperios-mundiais
-- segunda-vinda
-- discernimento-espiritual
+- plenitude
+- tempos
+- profecia
+- biblica
+- decadencia
+- moral
+- imperios
+- mundiais
+- segunda
+- vinda
+- discernimento
+- espiritual
 pregadores:
 - Pra. Magah
 params:

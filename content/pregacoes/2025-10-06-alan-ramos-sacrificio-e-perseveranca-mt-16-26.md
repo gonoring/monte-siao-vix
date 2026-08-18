@@ -7,7 +7,8 @@ tags:
 - perseveranca
 - tabernaculo
 - eternidade
-- intimidade-com-deus
+- intimidade
+- deus
 pregadores:
 - Alan Ramos
 params:

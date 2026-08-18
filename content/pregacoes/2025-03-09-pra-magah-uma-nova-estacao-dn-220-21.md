@@ -3,11 +3,15 @@ title: Pra. Magah | Uma Nova Estação (Dn 2:20-21)
 date: '2025-03-09'
 draft: false
 tags:
-- nova-estacao
+- nova
+- estacao
 - avivamento
-- poder-do-espirito-santo
-- zona-de-conforto
-- cheios-do-espirito
+- poder
+- espirito
+- santo
+- zona
+- conforto
+- cheios
 pregadores:
 - Pra. Magah
 params:

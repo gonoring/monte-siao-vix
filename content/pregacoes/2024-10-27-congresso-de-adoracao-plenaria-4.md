@@ -4,7 +4,8 @@ date: '2024-10-27'
 draft: false
 tags:
 - adoracao
-- ofertas-e-semeadura
+- ofertas
+- semeadura
 - oracao
 - jejum
 - disciplina

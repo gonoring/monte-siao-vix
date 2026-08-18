@@ -4,9 +4,11 @@ date: '2026-05-24'
 draft: false
 tags:
 - pentecostes
-- espírito-santo
-- festas-judaicas
-- restituição
+- espirito
+- santo
+- festas
+- judaicas
+- restituicao
 - jubileu
 pregadores:
 - Pra. Magah

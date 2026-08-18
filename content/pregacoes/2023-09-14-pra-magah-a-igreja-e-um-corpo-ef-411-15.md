@@ -4,10 +4,13 @@ date: '2023-09-14'
 draft: false
 tags:
 - eclesiologia
-- vida-em-comunidade
-- correcao-fraterna
+- vida
+- comunidade
+- correcao
+- fraterna
 - congregar
-- unidade-do-corpo
+- unidade
+- corpo
 pregadores:
 - Pra. Magah
 params:

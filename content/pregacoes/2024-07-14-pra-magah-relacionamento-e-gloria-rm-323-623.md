@@ -3,11 +3,16 @@ title: Pra. Magah | Relacionamento e Glória (Rm 3.23, 6.23)
 date: '2024-07-14'
 draft: false
 tags:
-- relacionamento-com-deus
-- queda-e-restauracao
-- distracoes-digitais
-- jejum-e-disciplina
-- intimidade-diaria
+- relacionamento
+- deus
+- queda
+- restauracao
+- distracoes
+- digitais
+- jejum
+- disciplina
+- intimidade
+- diaria
 pregadores:
 - Pra. Magah
 params:

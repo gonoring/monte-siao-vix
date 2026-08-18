@@ -7,7 +7,8 @@ tags:
 - integridade
 - arrependimento
 - sofrimento
-- dependencia-de-deus
+- dependencia
+- deus
 pregadores:
 - Alan Ramos
 params:

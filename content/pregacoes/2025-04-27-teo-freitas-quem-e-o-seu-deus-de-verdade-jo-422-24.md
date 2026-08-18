@@ -3,11 +3,18 @@ title: Pr. Téo Freitas | Quem é o Seu Deus de Verdade? (Jo 4.22-24)
 date: '2025-04-27'
 draft: false
 tags:
-- mulher-samaritana
-- adoracao-em-verdade
-- escolher-a-luz
-- certeza-da-propria-fe
-- deus-revelado-em-jesus
+- mulher
+- samaritana
+- adoracao
+- verdade
+- escolher
+- luz
+- certeza
+- propria
+- fe
+- deus
+- revelado
+- jesus
 pregadores:
 - Pr. Téo Freitas
 params:

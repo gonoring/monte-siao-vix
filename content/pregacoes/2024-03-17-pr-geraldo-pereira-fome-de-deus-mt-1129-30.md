@@ -3,9 +3,12 @@ title: Pr. Geraldo Pereira | Fome de Deus (Mt 11.29-30)
 date: '2024-03-17'
 draft: false
 tags:
-- fome-espiritual
-- oracao-secreta
-- identidade-em-deus
+- fome
+- espiritual
+- oracao
+- secreta
+- identidade
+- deus
 - humildade
 - avivamento
 pregadores:

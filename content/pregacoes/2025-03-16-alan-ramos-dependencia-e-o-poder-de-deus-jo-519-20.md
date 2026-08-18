@@ -3,11 +3,13 @@ title: Alan Ramos | Dependência é o Poder de Deus (Jo 5.19-20)
 date: '2025-03-16'
 draft: false
 tags:
-- dependencia-de-deus
+- dependencia
+- deus
 - submissao
 - mentoria
 - ansiedade
-- poder-espiritual
+- poder
+- espiritual
 pregadores:
 - Alan Ramos
 params:

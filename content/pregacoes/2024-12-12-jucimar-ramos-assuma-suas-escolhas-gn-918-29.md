@@ -3,8 +3,10 @@ title: Jucimar Ramos | Assuma suas Escolhas (Gn 9.18-29)
 date: '2024-12-12'
 draft: false
 tags:
-- escolhas-e-responsabilidade
-- lei-do-foco
+- escolhas
+- responsabilidade
+- lei
+- foco
 - relacionamentos
 - perdao
 - limites

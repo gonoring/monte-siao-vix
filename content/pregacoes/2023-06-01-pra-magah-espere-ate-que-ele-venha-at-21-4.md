@@ -5,7 +5,8 @@ draft: false
 tags:
 - pentecostes
 - jubileu
-- principio-do-tempo
+- principio
+- tempo
 - jejum
 - entrega
 pregadores:

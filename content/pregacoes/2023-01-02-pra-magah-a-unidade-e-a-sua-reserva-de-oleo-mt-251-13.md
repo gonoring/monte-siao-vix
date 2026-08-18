@@ -3,11 +3,15 @@ title: Pra. Magah | A Unidade e a Sua Reserva de Óleo (Mt 25.1-13)
 date: '2023-01-02'
 draft: false
 tags:
-- parabola-das-dez-virgens
-- reserva-espiritual
+- parabola
+- dez
+- virgens
+- reserva
+- espiritual
 - unidade
 - vigilancia
-- segunda-vinda
+- segunda
+- vinda
 pregadores:
 - Pra. Magah
 params:

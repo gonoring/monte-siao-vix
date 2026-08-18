@@ -6,8 +6,10 @@ tags:
 - adoracao
 - servico
 - mentoria
-- batalha-espiritual
-- recompensa-eterna
+- batalha
+- espiritual
+- recompensa
+- eterna
 pregadores:
 - Bruna
 params:

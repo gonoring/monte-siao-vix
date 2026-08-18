@@ -5,7 +5,8 @@ draft: false
 tags:
 - pascoa
 - ressurreicao
-- poder-espiritual
+- poder
+- espiritual
 - primicias
 - entrega
 pregadores:

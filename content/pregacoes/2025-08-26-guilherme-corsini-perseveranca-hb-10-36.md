@@ -4,10 +4,13 @@ date: '2025-08-26'
 draft: false
 tags:
 - perseveranca
-- jose-do-egito
-- maturidade-espiritual
+- jose
+- egito
+- maturidade
+- espiritual
 - provacao
-- duvida-e-dubiedade
+- duvida
+- dubiedade
 pregadores:
 - Guilherme Corsini
 params:

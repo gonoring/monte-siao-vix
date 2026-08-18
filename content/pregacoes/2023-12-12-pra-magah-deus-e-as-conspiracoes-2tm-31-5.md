@@ -3,11 +3,16 @@ title: Pra. Magah | Deus e as Conspirações (2Tm 3.1-5)
 date: '2023-12-12'
 draft: false
 tags:
-- ultimos-dias
-- soberania-de-deus
-- jose-do-egito
-- ester-e-mardoqueu
-- guerra-espiritual
+- ultimos
+- dias
+- soberania
+- deus
+- jose
+- egito
+- ester
+- mardoqueu
+- guerra
+- espiritual
 pregadores:
 - Pra. Magah
 params:

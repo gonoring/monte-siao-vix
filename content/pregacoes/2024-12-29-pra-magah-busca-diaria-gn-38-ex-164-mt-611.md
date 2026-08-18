@@ -3,11 +3,15 @@ title: Pra. Magah | Busca Diária (Gn 3.8, Ex 16.4, Mt 6.11)
 date: '2024-12-29'
 draft: false
 tags:
-- busca-diaria
-- dependencia-de-deus
-- vida-devocional
-- maturidade-espiritual
-- principio-da-dependencia
+- busca
+- diaria
+- dependencia
+- deus
+- vida
+- devocional
+- maturidade
+- espiritual
+- principio
 pregadores:
 - Pra. Magah
 params:

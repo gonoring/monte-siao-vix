@@ -5,9 +5,11 @@ draft: false
 tags:
 - entrega
 - restauracao
-- maria-madalena
+- maria
+- madalena
 - jejum
-- cura-interior
+- cura
+- interior
 pregadores:
 - Allan Oliveira
 params:

@@ -6,7 +6,8 @@ tags:
 - perseveranca
 - sofrimento
 - aceitacao
-- batalha-espiritual
+- batalha
+- espiritual
 - vitimismo
 pregadores:
 - Pra. Fabiana Ferreira

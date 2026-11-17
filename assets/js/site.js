@@ -180,7 +180,14 @@
         var tFrase = tempos[iLink];
         atual = iLink;
         frases[iLink].classList.add("ativa");
-        requestAnimationFrame(function () { frases[iLink].scrollIntoView({ block: "center" }); });
+        // Fontes e imagens que chegam depois empurram o texto; recentraliza ao fim
+        // do carregamento, salvo se o leitor já rolou por conta própria.
+        var centrar = function () {
+          if (!ultimoGestoUsuario) frases[iLink].scrollIntoView({ block: "center" });
+        };
+        requestAnimationFrame(centrar);
+        if (document.fonts && document.fonts.ready) document.fonts.ready.then(centrar);
+        window.addEventListener("load", centrar);
         var posicionar = function () { if (audio.currentTime < 1) audio.currentTime = tFrase; };
         if (audio.readyState >= 1) posicionar();
         else audio.addEventListener("loadedmetadata", posicionar, { once: true });

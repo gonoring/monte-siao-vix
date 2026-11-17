@@ -1,0 +1,23 @@
+{{- /* Separa "Pregador | Título (Ref)" e devolve só o título da mensagem.
+       Os títulos do feed vêm nas duas ordens; a parte que compartilha palavra
+       com o campo pregador é descartada. Sem correspondência, mantém as duas. */ -}}
+{{- $t := .Title -}}
+{{- $preg := lower (.Params.pregador | default "") -}}
+{{- $titulo := $t -}}
+{{- $parts := split $t " | " -}}
+{{- if eq (len $parts) 2 -}}
+  {{- $a := index $parts 0 -}}{{- $b := index $parts 1 -}}
+  {{- $aPreg := false -}}{{- $bPreg := false -}}
+  {{- range split $preg " " -}}
+    {{- if ge (len .) 4 -}}
+      {{- if in (lower $a) . -}}{{- $aPreg = true -}}{{- end -}}
+      {{- if in (lower $b) . -}}{{- $bPreg = true -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if and $aPreg (not $bPreg) -}}{{- $titulo = $b -}}
+  {{- else if and $bPreg (not $aPreg) -}}{{- $titulo = $a -}}
+  {{- else -}}{{- $titulo = printf "%s · %s" $a $b -}}
+  {{- end -}}
+{{- end -}}
+{{- $titulo = replaceRE `\s*\([^()]*\d[^()]*\)\s*$` "" $titulo -}}
+{{- return (dict "titulo" $titulo) -}}

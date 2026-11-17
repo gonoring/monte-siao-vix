@@ -1,5 +1,5 @@
 ---
-title: Leonardo Gonoring | Culto de Sacerdotes
+title: Leonardo Gonoring Gonçalves Simon | Culto de Sacerdotes
 date: '2026-07-29'
 draft: false
 tags:
@@ -17,20 +17,20 @@ tags:
 - transformacao
 - pessoal
 pregadores:
-- Leonardo Gonoring Simon
+- Leonardo Gonoring Gonçalves Simon
 params:
-  pregador: Leonardo Gonoring Simon
+  pregador: Leonardo Gonoring Gonçalves Simon
   texto_biblico: Pv 16:1-9, Dt 11:8-12, Gn 2-3
   tema: A dependência de Deus como fundamento da vida de obediência e propósito
   duracao: 01:17:13
   audio_url: ''
   prosa_em: '2026-08-02'
-summary: Leonardo Gonoring Simon apresenta uma pregação sobre dependência de Deus no Culto de Sacerdotes, estruturada em torno de Provérbios 16:1-9 e Deuteronômio 11:8-12. O pregador compartilha sua trajetória...
+summary: Leonardo Gonoring Gonçalves Simon apresenta uma pregação sobre dependência de Deus no Culto de Sacerdotes, estruturada em torno de Provérbios 16:1-9 e Deuteronômio 11:8-12. O pregador compartilha sua trajetória...
 ---
 
 ## Resumo
 
-Leonardo Gonoring Simon apresenta uma pregação sobre dependência de Deus no Culto de Sacerdotes, estruturada em torno de Provérbios 16:1-9 e Deuteronômio 11:8-12. O pregador compartilha sua trajetória de transformação espiritual, começando com uma crise de ansiedade em 2012 que o impediu de participar plenamente da vida cristã, mesmo frequentando a igreja. Relata sua "segunda conversão" em 21 de março de 2025, quando decidiu viver de forma radical: "ser inquebrantável diante do pecado e quebrantável diante de Deus". Argumenta que depender de Deus é um processo que exige obediência (que demanda confiança), fé (que depende de conhecimento), e relacionamento com Deus (que necessita dedicação contínua). Utilizando ilustrações de árvores transplantadas e caranguejos em muda, explica que a transformação gera fragilidade e desconforto temporários. Criticando a cultura moderna de "modernidade líquida" (Bauman) e o impacto das redes sociais na plasticidade cerebral, convida os ouvintes a posicionamentos radicais baseados em absolutos bíblicos. Enfatiza que a vida cristã exige intenção diária: devoção consistente, leitura bíblica regular, partilha comunitária e obediência imediata ao chamado de Deus, não apenas frequência ao culto. Conclui convocando a busca ordenária mas consistente pelo propósito divino, particularmente na liderança familiar e nos ministérios.
+Leonardo Gonoring Gonçalves Simon apresenta uma pregação sobre dependência de Deus no Culto de Sacerdotes, estruturada em torno de Provérbios 16:1-9 e Deuteronômio 11:8-12. O pregador compartilha sua trajetória de transformação espiritual, começando com uma crise de ansiedade em 2012 que o impediu de participar plenamente da vida cristã, mesmo frequentando a igreja. Relata sua "segunda conversão" em 21 de março de 2025, quando decidiu viver de forma radical: "ser inquebrantável diante do pecado e quebrantável diante de Deus". Argumenta que depender de Deus é um processo que exige obediência (que demanda confiança), fé (que depende de conhecimento), e relacionamento com Deus (que necessita dedicação contínua). Utilizando ilustrações de árvores transplantadas e caranguejos em muda, explica que a transformação gera fragilidade e desconforto temporários. Criticando a cultura moderna de "modernidade líquida" (Bauman) e o impacto das redes sociais na plasticidade cerebral, convida os ouvintes a posicionamentos radicais baseados em absolutos bíblicos. Enfatiza que a vida cristã exige intenção diária: devoção consistente, leitura bíblica regular, partilha comunitária e obediência imediata ao chamado de Deus, não apenas frequência ao culto. Conclui convocando a busca ordenária mas consistente pelo propósito divino, particularmente na liderança familiar e nos ministérios.
 
 ## Trechos marcantes
 

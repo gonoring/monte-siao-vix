@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · Monte Sião Grande Vitória{{ end }}</title>
+  <meta name="description" content="{{ with .Params.tema }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  <script>(function(){try{var t=localStorage.getItem("tema");if(t){document.documentElement.dataset.theme=t}var f=localStorage.getItem("fonte");if(f){document.documentElement.style.setProperty("--leitura",f+"rem")}}catch(e){}})()</script>
+  <link rel="icon" type="image/svg+xml" href="{{ "img/simbolo-monte-siao-cor.svg" | relURL }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+  {{- $css := resources.Get "css/site.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  {{- range .AlternativeOutputFormats }}{{ if eq .Name "rss" }}
+  <link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ site.Title }}">
+  {{- end }}{{ end }}
+</head>
+<body class="{{ block "bodyclass" . }}{{ end }}">
+  <a class="pular" href="#conteudo">Ir para o conteúdo</a>
+  <header class="topo">
+    <div class="topo-in">
+      <a class="marca" href="{{ "" | relURL }}" aria-label="Página inicial">
+        <img class="selo selo-claro" src="{{ "img/simbolo-monte-siao-cor.svg" | relURL }}" width="36" height="36" alt="">
+        <img class="selo selo-escuro" src="{{ "img/simbolo-monte-siao-branco.svg" | relURL }}" width="36" height="36" alt="">
+        <span>MONTE SIÃO <small>pregações em texto</small></span>
+      </a>
+      <nav class="nav" aria-label="Principal">
+        {{- $sec := .Section }}{{ $kind := .Data.Plural | default "" }}
+        <a href="{{ "pregacoes/" | relURL }}"{{ if eq $sec "pregacoes" }} aria-current="page"{{ end }}>Pregações</a>
+        <a href="{{ "pregadores/" | relURL }}"{{ if eq $kind "pregadores" }} aria-current="page"{{ end }}>Pregadores</a>
+        <a href="{{ "temas/" | relURL }}"{{ if eq .Layout "temas" }} aria-current="page"{{ end }}>Temas</a>
+      </nav>
+      <button class="tema-btn" type="button" id="tema-btn" aria-label="Alternar tema claro e escuro" title="Tema claro ou escuro">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9c0-.5 0-.9-.1-1.4A7 7 0 0 1 12 3z" fill="currentColor"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main id="conteudo">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="rodape">
+    <div class="rodape-in">
+      <p><strong>Igreja Monte Sião Grande Vitória</strong> · Acervo das pregações em texto.</p>
+      <p class="rodape-nota">As transcrições são geradas automaticamente a partir do áudio e podem conter imprecisões. Em caso de dúvida, vale o áudio original.</p>
+    </div>
+  </footer>
+  {{- $js := resources.Get "js/site.js" | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" defer></script>
+</body>
+</html>

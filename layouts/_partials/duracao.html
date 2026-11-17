@@ -1,0 +1,11 @@
+{{- /* "01:17:13" -> "1h17"; "00:45:34" -> "45 min" */ -}}
+{{- $p := split . ":" -}}
+{{- $out := . -}}
+{{- if eq (len $p) 3 -}}
+  {{- $h := strings.TrimLeft "0" (index $p 0) -}}
+  {{- $m := index $p 1 -}}
+  {{- if $h -}}{{- $out = printf "%sh%s" $h $m -}}
+  {{- else -}}{{- $out = printf "%s min" (strings.TrimLeft "0" $m | default "0") -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

@@ -1,0 +1,75 @@
+{{ define "bodyclass" }}pg-pregacao{{ end }}
+{{ define "main" }}
+{{- $t := partial "titulo.html" . }}
+{{- $raw := replace .RawContent "\r" "" }}
+{{- $resumo := "" }}{{ $trechos := "" }}{{ $transc := "" }}
+{{- $partes := split $raw "## Transcrição" }}
+{{- if eq (len $partes) 2 }}
+  {{- $transc = index $partes 1 }}
+  {{- $topo := split (index $partes 0) "## Trechos marcantes" }}
+  {{- $resumo = replace (index $topo 0) "## Resumo" "" }}
+  {{- if eq (len $topo) 2 }}{{ $trechos = index $topo 1 }}{{ end }}
+{{- end }}
+<div class="progresso" aria-hidden="true"><span id="progresso"></span></div>
+<article class="pregacao">
+  <header class="preg-cab">
+    <p class="trilha"><a href="{{ "pregacoes/" | relURL }}">Pregações</a></p>
+    <h1>{{ $t.titulo }}</h1>
+    <p class="preg-autor">
+      {{- with .GetTerms "pregadores" }}{{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}{{ else }}{{ .Params.pregador }}{{ end -}}
+    </p>
+    <ul class="preg-meta">
+      <li><time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "2 de January de 2006" .Date }}</time></li>
+      {{- with .Params.texto_biblico }}<li class="ref">{{ . }}</li>{{ end }}
+      {{- with .Params.duracao }}<li>{{ partial "duracao.html" . }} de áudio</li>{{ end }}
+      <li>{{ .ReadingTime }} min de leitura</li>
+    </ul>
+    {{- with .Params.tema }}<p class="preg-tema">{{ . }}</p>{{ end }}
+    {{- with .Params.audio_url }}
+    <div class="player">
+      <span>Ouvir a mensagem</span>
+      <audio controls preload="none" src="{{ . }}"></audio>
+    </div>
+    {{- end }}
+  </header>
+
+  {{- if $transc }}
+  {{- with strings.TrimSpace $resumo }}
+  <section class="resumo" aria-labelledby="h-resumo">
+    <h2 id="h-resumo">Resumo</h2>
+    {{ $.RenderString (dict "display" "block") . }}
+  </section>
+  {{- end }}
+  {{- with strings.TrimSpace $trechos }}
+  <section class="trechos" aria-labelledby="h-trechos">
+    <h2 id="h-trechos">Trechos marcantes</h2>
+    <div class="trechos-grade">{{ $.RenderString (dict "display" "block") . }}</div>
+  </section>
+  {{- end }}
+  <section class="transcricao" aria-labelledby="h-transc">
+    <div class="transc-cab">
+      <h2 id="h-transc">Transcrição</h2>
+      <div class="fonte" role="group" aria-label="Tamanho do texto">
+        <button type="button" data-fonte="-1" aria-label="Diminuir o texto">A−</button>
+        <button type="button" data-fonte="1" aria-label="Aumentar o texto">A+</button>
+      </div>
+    </div>
+    <div class="prosa">{{ $.RenderString (dict "display" "block") $transc }}</div>
+  </section>
+  {{- else }}
+  <section class="transcricao"><div class="prosa">{{ .Content }}</div></section>
+  {{- end }}
+
+  {{- with partial "temas-de.html" . }}
+  <footer class="preg-tags">
+    <h2>Temas</h2>
+    <ul class="pilulas pilulas-tema">{{ range . }}<li><a href="{{ "temas/" | relURL }}#{{ anchorize . }}">{{ . }}</a></li>{{ end }}</ul>
+  </footer>
+  {{- end }}
+
+  <nav class="vizinhas" aria-label="Outras pregações">
+    {{- with .PrevInSection }}{{ $p := partial "titulo.html" . }}<a class="viz viz-ant" href="{{ .RelPermalink }}"><span>Anterior</span>{{ $p.titulo }}</a>{{ end }}
+    {{- with .NextInSection }}{{ $n := partial "titulo.html" . }}<a class="viz viz-prox" href="{{ .RelPermalink }}"><span>Seguinte</span>{{ $n.titulo }}</a>{{ end }}
+  </nav>
+</article>
+{{ end }}

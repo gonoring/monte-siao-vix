@@ -1,0 +1,53 @@
+{{ define "bodyclass" }}pg-temas{{ end }}
+{{ define "main" }}
+{{- $pregs := (where site.RegularPages "Section" "pregacoes").ByDate.Reverse }}
+<header class="cab">
+  <h1>Índice de temas</h1>
+  <p>Cada pregação aparece sob os temas centrais da mensagem. Escolha um pregador para ver só o que ele ministrou.</p>
+</header>
+
+<div class="temas-barra">
+  <label class="campo">
+    <span>Pregador</span>
+    <select id="t-p">
+      <option value="">Todos os pregadores</option>
+      {{- range site.Taxonomies.pregadores.ByCount }}
+      <option value="{{ .Page.Title }}">{{ .Page.Title }} ({{ .Count }})</option>
+      {{- end }}
+    </select>
+  </label>
+  <nav class="letras" aria-label="Temas por letra" id="t-letras">
+    {{- $letras := slice }}
+    {{- range hugo.Data.vocabulario_temas }}{{ $l := .letra }}{{ if not (in $letras $l) }}{{ $letras = $letras | append $l }}{{ end }}{{ end }}
+    {{- range $letras }}<a href="#letra-{{ . }}">{{ . }}</a>{{ end }}
+  </nav>
+</div>
+
+<p class="contagem" id="t-contagem" aria-live="polite"></p>
+
+<div class="indice" id="indice">
+  {{- $letra := "" }}
+  {{- range hugo.Data.vocabulario_temas }}
+  {{- $tema := .nome }}
+  {{- $l := .letra }}
+  {{- $lista := slice }}
+  {{- range $pregs }}{{ if in (partial "temas-de.html" .) $tema }}{{ $lista = $lista | append . }}{{ end }}{{ end }}
+  {{- if $lista }}
+  <section class="tema" id="{{ anchorize $tema }}" data-letra="{{ $l }}">
+    {{- if ne $l $letra }}<span class="letra-ancora" id="letra-{{ $l }}"></span>{{ $letra = $l }}{{ end }}
+    <header class="tema-cab">
+      <h2>{{ $tema }}</h2>
+      <span class="tema-n" data-total="{{ len $lista }}">{{ len $lista }}</span>
+    </header>
+    <p class="tema-abrange">{{ .abrange }}</p>
+    <ul class="tema-lista">
+      {{- range $lista }}{{ $t := partial "titulo.html" . }}
+      <li data-p="{{ .Params.pregador }}"><a href="{{ .RelPermalink }}">{{ $t.titulo }}</a> <span class="tema-quem">{{ .Params.pregador }} · {{ .Date.Format "2006" }}</span></li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+  {{- end }}
+</div>
+<p class="vazio" id="t-vazio" hidden>Nenhum tema para esse pregador.</p>
+{{ end }}

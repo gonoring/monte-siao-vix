@@ -1,0 +1,14 @@
+{{- $t := partial "titulo.html" . -}}
+{{- $temas := partial "temas-de.html" . -}}
+<article class="card"
+  data-s="{{ lower (printf "%s %s %s %s %s" .Title (.Params.pregador | default "") (.Params.texto_biblico | default "") (.Params.tema | default "") (delimit $temas " ")) }}"
+  data-p="{{ .Params.pregador }}" data-y="{{ .Date.Format "2006" }}" data-d="{{ .Date.Format "2006-01-02" }}">
+  <a href="{{ .RelPermalink }}">
+    <p class="card-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "2 Jan 2006" .Date }}</time>{{ with .Params.duracao }}<span>{{ partial "duracao.html" . }}</span>{{ end }}</p>
+    <h3>{{ $t.titulo }}</h3>
+    <p class="card-preg">{{ .Params.pregador }}</p>
+    {{- with .Params.tema }}<p class="card-tema">{{ . }}</p>{{ end }}
+    {{- with $temas }}<p class="card-temas">{{ delimit . " · " }}</p>{{ end }}
+    {{- with .Params.texto_biblico }}<p class="card-ref">{{ . }}</p>{{ end }}
+  </a>
+</article>

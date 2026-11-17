@@ -1,0 +1,48 @@
+{{ define "bodyclass" }}pg-lista{{ end }}
+{{ define "main" }}
+{{- $pregs := .RegularPages.ByDate.Reverse }}
+<header class="cab">
+  <h1>Pregações</h1>
+  <p>{{ len $pregs }} mensagens transcritas. Filtre por texto, pregador ou ano.</p>
+</header>
+
+<form class="filtros" id="filtros" role="search" onsubmit="return false">
+  <label class="campo campo-busca">
+    <span>Buscar</span>
+    <input type="search" id="f-q" placeholder="Tema, título, pregador ou texto bíblico" autocomplete="off">
+  </label>
+  <label class="campo">
+    <span>Pregador</span>
+    <select id="f-p">
+      <option value="">Todos</option>
+      {{- range site.Taxonomies.pregadores.Alphabetical }}
+      <option value="{{ .Page.Title }}">{{ .Page.Title }} ({{ .Count }})</option>
+      {{- end }}
+    </select>
+  </label>
+  <label class="campo">
+    <span>Ano</span>
+    <select id="f-y">
+      <option value="">Todos</option>
+      {{- range $pregs.GroupByDate "2006" }}
+      <option value="{{ .Key }}">{{ .Key }}</option>
+      {{- end }}
+    </select>
+  </label>
+  <label class="campo">
+    <span>Ordem</span>
+    <select id="f-o">
+      <option value="desc">Mais recentes</option>
+      <option value="asc">Mais antigas</option>
+    </select>
+  </label>
+</form>
+
+<p class="contagem" id="contagem" aria-live="polite"></p>
+
+<div class="grade" id="lista">
+  {{- range $pregs }}{{ partial "card.html" . }}{{ end }}
+</div>
+<p class="vazio" id="vazio" hidden>Nenhuma pregação encontrada com esses filtros. <button type="button" id="limpar">Limpar filtros</button></p>
+<p class="mais"><button type="button" id="mais" hidden>Mostrar mais</button></p>
+{{ end }}

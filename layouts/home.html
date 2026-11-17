@@ -1,0 +1,72 @@
+{{ define "bodyclass" }}pg-home{{ end }}
+{{ define "main" }}
+{{- $pregs := where site.RegularPages "Section" "pregacoes" }}
+{{- $pregadores := site.Taxonomies.pregadores.ByCount }}
+{{- $anos := $pregs.GroupByDate "2006" }}
+<section class="hero">
+  <div class="hero-in">
+    <img class="hero-logo" src="{{ "img/logo-monte-siao-branco.svg" | relURL }}" width="300" height="179" alt="Monte Sião, Igreja em Vix">
+    <h1>A palavra pregada,<br>para ler, reler e guardar.</h1>
+    <div class="hero-traco" aria-hidden="true"></div>
+    <p class="hero-sub">{{ len $pregs }} pregações em texto, com resumo, trechos marcantes e o áudio original.</p>
+    <form class="busca" action="{{ "pregacoes/" | relURL }}" method="get" role="search">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input type="search" name="q" placeholder="Busque por tema, pregador ou texto bíblico" aria-label="Buscar pregações" autocomplete="off">
+      <button type="submit">Buscar</button>
+    </form>
+    <ul class="hero-num">
+      <li><strong>{{ len $pregs }}</strong> pregações</li>
+      <li><strong>{{ len $pregadores }}</strong> pregadores</li>
+      <li><strong>{{ len $anos }}</strong> anos de acervo</li>
+    </ul>
+  </div>
+  <svg class="hero-monte" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 120V84l180-46 150 40 210-70 190 62 160-34 230 58 170-40 150 30v36z"/></svg>
+</section>
+
+<section class="bloco">
+  <div class="bloco-cab">
+    <h2>Mensagens recentes</h2>
+    <a class="ver-todas" href="{{ "pregacoes/" | relURL }}">Ver todas as pregações</a>
+  </div>
+  <div class="grade">
+    {{- range first 6 $pregs.ByDate.Reverse }}{{ partial "card.html" . }}{{ end }}
+  </div>
+</section>
+
+<section class="bloco">
+  <div class="bloco-cab">
+    <h2>Pregadores</h2>
+    <a class="ver-todas" href="{{ "pregadores/" | relURL }}">Todos os pregadores</a>
+  </div>
+  <ul class="pessoas">
+    {{- range first 8 $pregadores }}
+    <li><a href="{{ .Page.RelPermalink }}">
+      <span class="avatar" aria-hidden="true">{{ substr (replaceRE `^(Pra?\.|Tio|Pastora?)\s+` "" .Page.Title) 0 1 }}</span>
+      <span class="pessoa-nome">{{ .Page.Title }}</span>
+      <span class="pessoa-n">{{ .Count }} {{ if eq .Count 1 }}mensagem{{ else }}mensagens{{ end }}</span>
+    </a></li>
+    {{- end }}
+  </ul>
+</section>
+
+<section class="bloco bloco-duplo">
+  <div>
+    <h2>Por ano</h2>
+    <ul class="pilulas">
+      {{- range $anos }}
+      <li><a href="{{ "pregacoes/" | relURL }}?ano={{ .Key }}">{{ .Key }} <span>{{ len .Pages }}</span></a></li>
+      {{- end }}
+    </ul>
+  </div>
+  <div>
+    <h2>Temas</h2>
+    <ul class="pilulas pilulas-tema">
+      {{- range hugo.Data.vocabulario_temas }}{{ $tema := .nome }}{{ $n := 0 }}
+      {{- range $pregs }}{{ if in (partial "temas-de.html" .) $tema }}{{ $n = add $n 1 }}{{ end }}{{ end }}
+      {{- if $n }}<li><a href="{{ "temas/" | relURL }}#{{ anchorize $tema }}">{{ $tema }} <span>{{ $n }}</span></a></li>{{ end }}
+      {{- end }}
+    </ul>
+    <p class="mais-temas"><a href="{{ "temas/" | relURL }}">Abrir o índice de temas</a></p>
+  </div>
+</section>
+{{ end }}

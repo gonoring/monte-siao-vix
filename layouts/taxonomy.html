@@ -1,0 +1,18 @@
+{{ define "bodyclass" }}pg-tax{{ end }}
+{{ define "main" }}
+{{- if eq .Data.Plural "pregadores" }}
+<header class="cab">
+  <h1>Pregadores</h1>
+  <p>{{ len .Data.Terms }} pessoas já ministraram no acervo.</p>
+</header>
+<ul class="pessoas pessoas-todas">
+  {{- range .Data.Terms.ByCount }}
+  <li><a href="{{ .Page.RelPermalink }}">
+    <span class="avatar" aria-hidden="true">{{ substr (replaceRE `^(Pra?\.|Tio|Pastora?)\s+` "" .Page.Title) 0 1 }}</span>
+    <span class="pessoa-nome">{{ .Page.Title }}</span>
+    <span class="pessoa-n">{{ .Count }} {{ if eq .Count 1 }}mensagem{{ else }}mensagens{{ end }}</span>
+  </a></li>
+  {{- end }}
+</ul>
+{{- end }}
+{{ end }}

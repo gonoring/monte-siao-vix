@@ -1,0 +1,7 @@
+{{- /* Temas do índice atribuídos a uma pregação (data/temas_pregacoes.json,
+       chave = nome do arquivo sem extensão). Devolve lista vazia se não houver. */ -}}
+{{- $t := slice -}}
+{{- with .File -}}
+  {{- with index hugo.Data.temas_pregacoes .ContentBaseName -}}{{- $t = . -}}{{- end -}}
+{{- end -}}
+{{- return $t -}}

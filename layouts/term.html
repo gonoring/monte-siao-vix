@@ -1,0 +1,28 @@
+{{ define "bodyclass" }}pg-termo{{ end }}
+{{ define "main" }}
+{{- $pregs := .Pages.ByDate.Reverse }}
+<header class="cab">
+  {{- if eq .Data.Plural "pregadores" }}
+  <p class="trilha"><a href="{{ "pregadores/" | relURL }}">Pregadores</a></p>
+  <h1>{{ .Title }}</h1>
+  {{- else }}
+  <p class="trilha"><a href="{{ "tags/" | relURL }}">Temas</a></p>
+  <h1>Tema: {{ .Title | lower }}</h1>
+  {{- end }}
+  <p>{{ len $pregs }} {{ if eq (len $pregs) 1 }}mensagem{{ else }}mensagens{{ end }}{{ with $pregs }}, de {{ (index (last 1 .) 0).Date.Format "2006" }} a {{ (index . 0).Date.Format "2006" }}{{ end }}.</p>
+</header>
+{{- if eq .Data.Plural "pregadores" }}{{ $nome := .Title }}
+<section class="preg-temas">
+  <h2>Temas que ministrou</h2>
+  <ul class="pilulas pilulas-tema">
+    {{- range hugo.Data.vocabulario_temas }}{{ $tema := .nome }}{{ $n := 0 }}
+    {{- range $pregs }}{{ if in (partial "temas-de.html" .) $tema }}{{ $n = add $n 1 }}{{ end }}{{ end }}
+    {{- if $n }}<li><a href="{{ "temas/" | relURL }}?pregador={{ $nome | urlquery }}#{{ anchorize $tema }}">{{ $tema }} <span>{{ $n }}</span></a></li>{{ end }}
+    {{- end }}
+  </ul>
+</section>
+{{- end }}
+<div class="grade">
+  {{- range $pregs }}{{ partial "card.html" . }}{{ end }}
+</div>
+{{ end }}

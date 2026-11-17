@@ -1,3 +1,3 @@
 ---
-title: "Monte Sião Vix — Transcrições"
+title: "Monte Sião Grande Vitória — Pregações em texto"
 ---

@@ -182,7 +182,7 @@ button, input, select { font: inherit; color: inherit; }
 .preg-meta .ref { font-family: var(--mono); font-size: .82rem; color: var(--ink); }
 .preg-cab::after { content: ""; display: block; width: 72px; height: 2px; background: var(--ink); margin: 26px auto 0; }
 .preg-tema { font-family: var(--serif); font-style: italic; font-size: 1.22rem; line-height: 1.45; color: var(--muted); margin: 22px auto 0; max-width: 34em; }
-.player { margin-top: 26px; background: var(--soft); border-radius: var(--raio); padding: 12px 16px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; text-align: left; }
+.player { margin: 26px auto 0; background: var(--soft); border-radius: var(--raio); padding: 12px 16px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; text-align: left; }
 .player span { font-size: .66rem; color: var(--ink); }
 .player audio { flex: 1; min-width: 240px; height: 40px; }
 .pregacao section { margin-top: 44px; }
@@ -283,3 +283,20 @@ button, input, select { font: inherit; color: inherit; }
   .tema { scroll-margin-top: 70px; }
   .letra-ancora { top: -70px; }
 }
+
+/* Sincronia texto e áudio */
+.player-sinc { position: sticky; top: 64px; z-index: 15; box-shadow: var(--shadow); background: var(--surface); border: 1px solid var(--line); }
+.acompanhar { border: 1px solid var(--line); background: var(--bg); color: var(--muted); border-radius: 4px; padding: 6px 10px; cursor: pointer; font-family: var(--mono); font-size: .66rem; text-transform: uppercase; letter-spacing: .08em; }
+.acompanhar[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.sinc-dica { margin: -10px 0 18px; font-size: .84rem; color: var(--muted); }
+.sinc .fr { cursor: pointer; border-radius: 3px; transition: background-color .2s ease, color .2s ease; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.sinc .fr:hover { background: var(--soft); }
+.sinc .fr.ativa { background: color-mix(in srgb, var(--accent) 22%, transparent); color: var(--ink); }
+.sinc .fr.ouvida { color: var(--text); }
+.sinc.tocando .fr:not(.ouvida):not(.ativa) { color: color-mix(in srgb, var(--text) 78%, transparent); }
+@media (max-width: 600px) {
+  .player-sinc { top: 56px; padding: 8px 10px; gap: 8px; }
+  .player-sinc > span { display: none; }
+  .player-sinc audio { min-width: 0; width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) { .sinc .fr { transition: none; } }

@@ -4,6 +4,9 @@
 {{- $raw := replace .RawContent "\r" "" }}
 {{- $resumo := "" }}{{ $trechos := "" }}{{ $transc := "" }}
 {{- $partes := split $raw "## Transcrição" }}
+{{- /* Sincronia texto e áudio: data/sincronia/<arquivo>.json, quando existir. */}}
+{{- $sinc := false }}
+{{- with hugo.Data.sincronia }}{{ with index . $.File.ContentBaseName }}{{ $sinc = . }}{{ end }}{{ end }}
 {{- if eq (len $partes) 2 }}
   {{- $transc = index $partes 1 }}
   {{- $topo := split (index $partes 0) "## Trechos marcantes" }}
@@ -25,13 +28,18 @@
       <li>{{ .ReadingTime }} min de leitura</li>
     </ul>
     {{- with .Params.tema }}<p class="preg-tema">{{ . }}</p>{{ end }}
+  </header>
+    {{- /* O player fica fora do cabeçalho para que, com sincronia, a posição
+           fixa valha ao longo de todo o artigo, não só do cabeçalho. */}}
     {{- with .Params.audio_url }}
-    <div class="player">
+    <div class="player{{ if $sinc }} player-sinc{{ end }}" id="player">
       <span>Ouvir a mensagem</span>
-      <audio controls preload="none" src="{{ . }}"></audio>
+      <audio controls preload="{{ if $sinc }}metadata{{ else }}none{{ end }}" src="{{ . }}" id="audio"></audio>
+      {{- if $sinc }}
+      <button type="button" class="acompanhar" id="acompanhar" aria-pressed="true" title="A página rola acompanhando a fala">Acompanhar o texto</button>
+      {{- end }}
     </div>
     {{- end }}
-  </header>
 
   {{- if $transc }}
   {{- with strings.TrimSpace $resumo }}
@@ -54,7 +62,16 @@
         <button type="button" data-fonte="1" aria-label="Aumentar o texto">A+</button>
       </div>
     </div>
+    {{- if and $sinc $.Params.audio_url }}
+    <p class="sinc-dica">Texto sincronizado com o áudio. Toque numa frase para ouvir a partir dela.</p>
+    <div class="prosa sinc" id="sinc">
+      {{- range $sinc.paragrafos }}
+      <p>{{ range . }}<span class="fr" data-t="{{ index . 0 }}" data-f="{{ index . 1 }}">{{ index . 2 }}</span> {{ end }}</p>
+      {{- end }}
+    </div>
+    {{- else }}
     <div class="prosa">{{ $.RenderString (dict "display" "block") $transc }}</div>
+    {{- end }}
   </section>
   {{- else }}
   <section class="transcricao"><div class="prosa">{{ .Content }}</div></section>

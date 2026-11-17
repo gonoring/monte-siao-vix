@@ -117,6 +117,60 @@
     window.addEventListener("load", irParaAlvo);
   }
 
+  // Sincronia texto e áudio (páginas com data/sincronia)
+  var sinc = document.getElementById("sinc"), audio = document.getElementById("audio");
+  if (sinc && audio) {
+    var frases = Array.prototype.slice.call(sinc.querySelectorAll(".fr"));
+    var tempos = frases.map(function (f) { return parseFloat(f.dataset.t); });
+    var botaoAcomp = document.getElementById("acompanhar");
+    var acompanhar = true, atual = -1, ultimoGestoUsuario = 0;
+    var localizar = function (t) {
+      var lo = 0, hi = tempos.length - 1, r = -1;
+      while (lo <= hi) { var m = (lo + hi) >> 1; if (tempos[m] <= t + 0.15) { r = m; lo = m + 1; } else { hi = m - 1; } }
+      return r;
+    };
+    var marcar = function () {
+      var i = localizar(audio.currentTime);
+      if (i !== atual) {
+        if (atual >= 0 && frases[atual]) frases[atual].classList.remove("ativa");
+        for (var k = 0; k < frases.length; k++) frases[k].classList.toggle("ouvida", k < i);
+        atual = i;
+        if (i >= 0) frases[i].classList.add("ativa");
+      }
+      // A posição é conferida a cada atualização do player, não só na troca de
+      // frase: logo depois de um salto o áudio ainda está parado, e a frase
+      // ativa não muda até o fim dela.
+      if (i < 0 || !acompanhar || audio.paused || Date.now() - ultimoGestoUsuario < 4000) return;
+      var r = frases[i].getBoundingClientRect();
+      if (r.top < window.innerHeight * 0.3 || r.bottom > window.innerHeight * 0.75) {
+        // Salto longo (clique em outra parte, avanço no player) vai direto;
+        // a rolagem suave fica para o acompanhamento normal da fala.
+        var longe = Math.abs(r.top) > window.innerHeight * 1.5;
+        frases[i].scrollIntoView({ block: "center", behavior: longe ? "instant" : "smooth" });
+      }
+    };
+    audio.addEventListener("timeupdate", marcar);
+    audio.addEventListener("seeked", marcar);
+    audio.addEventListener("play", function () { sinc.classList.add("tocando"); });
+    sinc.addEventListener("click", function (e) {
+      var f = e.target.closest(".fr");
+      if (!f) return;
+      audio.currentTime = parseFloat(f.dataset.t);
+      ultimoGestoUsuario = 0;
+      var p = audio.play(); if (p && p.catch) p.catch(function () {});
+    });
+    ["wheel", "touchmove"].forEach(function (ev) {
+      window.addEventListener(ev, function () { ultimoGestoUsuario = Date.now(); }, { passive: true });
+    });
+    if (botaoAcomp) {
+      botaoAcomp.addEventListener("click", function () {
+        acompanhar = !acompanhar;
+        botaoAcomp.setAttribute("aria-pressed", acompanhar ? "true" : "false");
+        if (acompanhar) { ultimoGestoUsuario = 0; atual = -1; marcar(); }
+      });
+    }
+  }
+
   // Página da pregação: progresso de leitura e tamanho do texto
   var barra = document.getElementById("progresso");
   if (barra) {

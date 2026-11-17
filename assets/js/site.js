@@ -169,6 +169,25 @@
         if (acompanhar) { ultimoGestoUsuario = 0; atual = -1; marcar(); }
       });
     }
+    // Link com ?t=<segundos> (QR do devocional semanal): abre a página já na frase
+    // daquele minuto, destacada, com o player posicionado nela. O navegador não
+    // deixa tocar sozinho; o leitor aperta o play ou toca na frase. O tempo do QR
+    // vem truncado em segundos, por isso a busca aceita até o segundo seguinte.
+    var tLink = parseFloat(new URLSearchParams(location.search).get("t"));
+    if (tLink > 0) {
+      var iLink = localizar(tLink + 0.85);
+      if (iLink >= 0) {
+        var tFrase = tempos[iLink];
+        atual = iLink;
+        frases[iLink].classList.add("ativa");
+        requestAnimationFrame(function () { frases[iLink].scrollIntoView({ block: "center" }); });
+        var posicionar = function () { if (audio.currentTime < 1) audio.currentTime = tFrase; };
+        if (audio.readyState >= 1) posicionar();
+        else audio.addEventListener("loadedmetadata", posicionar, { once: true });
+        // Navegador que não carrega metadados antes do play (Safari no iPhone).
+        audio.addEventListener("play", posicionar, { once: true });
+      }
+    }
   }
 
   // Página da pregação: progresso de leitura e tamanho do texto
